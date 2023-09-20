@@ -1,0 +1,673 @@
+Date,Name,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA,GA,Saves,Save%,CS,PSxG,PKatt,PKA,PKsv,PKm,Cmp,PassAttemptedLong,Cmp%,PassAtt,Thr,Launch%,AvgLen,GoalKickAtt,GKLaunch%,GKAvgLen,Opp,Stp,Stp%,#OPA,AvgDist
+2021-08-15,Freddie Woodman,Matchweek 1,Home,L 2–4,Newcastle Utd,West Ham,Y,GK,90,7,4,3,42.9,0,3.1,1,0,1,0,4,9,44.4,17,4,23.5,27.9,10,50,43.5,5,0,0,0,9.7
+2021-08-21,Freddie Woodman,Matchweek 2,Away,L 0–2,Newcastle Utd,Aston Villa,Y,GK,90,1,2,0,0,0,1.4,1,1,0,0,0,15,0,19,3,42.1,35.1,11,63.6,51.7,7,0,0,0,17.4
+2021-08-28,Freddie Woodman,Matchweek 3,Home,D 2–2,Newcastle Utd,Southampton,Y,GK,90,5,2,4,80,0,2,1,1,0,0,6,19,31.6,14,4,57.1,48.4,13,84.6,64.5,12,1,8.3,0,5.7
+2021-09-11,Freddie Woodman,Matchweek 4,Away,L 1–4,Newcastle Utd,Manchester Utd,Y,GK,90,6,4,2,33.3,0,2.2,0,0,0,0,12,28,42.9,30,0,76.7,54.8,9,55.6,43.8,9,1,11.1,0,10.6
+2021-08-14,Daniel Bachmann,Matchweek 1,Home,W 3–2,Watford,Aston Villa,Y,GK,90,1,2,0,0,0,1.8,1,1,0,0,7,18,38.9,24,5,50,41.6,8,75,55.3,13,1,7.7,0,11.2
+2021-08-21,Daniel Bachmann,Matchweek 2,Away,L 0–2,Watford,Brighton,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,1,5,20,18,3,27.8,29.7,8,0,27.3,8,1,12.5,0,13.5
+2021-08-29,Daniel Bachmann,Matchweek 3,Away,L 0–1,Watford,Tottenham,Y,GK,90,8,1,7,87.5,0,1.2,0,0,0,0,5,14,35.7,29,10,34.5,37.6,9,44.4,36.3,11,0,0,0,11.7
+2021-09-11,Daniel Bachmann,Matchweek 4,Home,L 0–2,Watford,Wolves,Y,GK,90,5,2,4,60,0,1.7,0,0,0,0,6,8,75,24,9,25,31,10,20,28,6,0,0,1,13
+2021-11-28,Daniel Bachmann,Matchweek 13,Away,L 2–4,Watford,Leicester City,Y,GK,90,8,4,4,50,0,2.8,0,0,0,0,5,24,20.8,21,2,85.7,58.5,6,100,64.5,4,0,0,1,16.5
+2021-12-01,Daniel Bachmann,Matchweek 14,Home,L 1–2,Watford,Chelsea,Y,GK,90,4,2,2,50,0,2.1,0,0,0,0,11,26,42.3,27,2,88.9,59.2,2,100,59.5,6,0,0,1,16
+2021-12-04,Daniel Bachmann,Matchweek 15,Home,L 1–3,Watford,Manchester City,Y,GK,90,12,3,8,75,0,3.4,0,0,0,0,14,32,43.8,26,2,84.6,57.3,10,100,63.4,6,0,0,2,14.9
+2021-12-10,Daniel Bachmann,Matchweek 16,Away,L 1–2,Watford,Brentford,Y,GK,90,4,2,3,75,0,2.1,1,1,0,0,6,21,28.6,13,0,100,67.6,8,100,68,11,0,0,2,15.1
+2021-12-28,Daniel Bachmann,Matchweek 20,Home,L 1–4,Watford,West Ham,Y,GK,90,5,4,2,40,0,2.5,1,1,0,0,9,18,50,19,1,68.4,55.4,5,100,65,12,0,0,0,11.2
+2022-01-01,Daniel Bachmann,Matchweek 21,Home,L 0–1,Watford,Tottenham,Y,GK,90,9,1,8,88.9,0,1.5,0,0,0,0,13,29,44.8,31,4,64.5,47.5,9,100,65.6,21,1,4.8,0,10
+2022-01-21,Daniel Bachmann,Matchweek 23,Home,L 0–3,Watford,Norwich City,Y,GK,90,2,3,0,-50,0,1.3,0,0,0,0,3,11,27.3,16,2,50,37.4,5,60,50.2,3,0,0,1,15.7
+2021-08-13,Bernd Leno,Matchweek 1,Away,L 0–2,Arsenal,Brentford,Y,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,3,9,33.3,26,3,19.2,28.8,8,50,36.5,6,0,0,0,5.5
+2021-08-22,Bernd Leno,Matchweek 2,Home,L 0–2,Arsenal,Chelsea,Y,GK,90,5,2,2,60,0,1.3,0,0,0,0,0,7,0,15,5,33.3,33.3,7,28.6,30.7,8,2,25,1,16.4
+2021-08-28,Bernd Leno,Matchweek 3,Away,L 0–5,Arsenal,Manchester City,Y,GK,90,10,5,5,50,0,4.9,0,0,0,0,8,23,34.8,20,3,65,48.3,11,90.9,61.9,16,0,0,0,12.8
+2022-03-19,Bernd Leno,Matchweek 30,Away,W 1–0,Arsenal,Aston Villa,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,5,14,35.7,13,1,38.5,40.7,11,81.8,59.5,18,0,0,0,12
+2021-08-14,Lewis Dunk,Matchweek 1,Away,W 2–1,Brighton,Burnley,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-08-21,Lewis Dunk,Matchweek 2,Home,W 2–0,Brighton,Watford,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-08-28,Lewis Dunk,Matchweek 3,Home,L 0–2,Brighton,Everton,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-09-11,Lewis Dunk,Matchweek 4,Away,W 1–0,Brighton,Brentford,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-09-19,Lewis Dunk,Matchweek 5,Home,W 2–1,Brighton,Leicester City,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-09-27,Lewis Dunk,Matchweek 6,Away,D 1–1,Brighton,Crystal Palace,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-10-02,Lewis Dunk,Matchweek 7,Home,D 0–0,Brighton,Arsenal,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-10-16,Lewis Dunk,Matchweek 8,Away,D 0–0,Brighton,Norwich City,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-10-23,Lewis Dunk,Matchweek 9,Home,L 1–4,Brighton,Manchester City,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-10-30,Lewis Dunk,Matchweek 10,Away,D 2–2,Brighton,Liverpool,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-11-06,Lewis Dunk,Matchweek 11,Home,D 1–1,Brighton,Newcastle Utd,Y*,"CB,GK",90,0,0,0,0,0,0,0,0,0,0,1,1,100,0,0,0,0,1,100,74,1,0,0,0,0
+2021-11-20,Lewis Dunk,Matchweek 12,Away,L 0–2,Brighton,Aston Villa,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-11-27,Lewis Dunk,Matchweek 13,Home,D 0–0,Brighton,Leeds United,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-12-01,Lewis Dunk,Matchweek 14,Away,D 1–1,Brighton,West Ham,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-03-16,Lewis Dunk,Matchweek 16,Home,L 0–2,Brighton,Tottenham,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-02-15,Lewis Dunk,Matchweek 18,Away,L 0–2,Brighton,Manchester Utd,Y*,CB,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-02-12,Lewis Dunk,Matchweek 25,Away,W 2–0,Brighton,Watford,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-02-26,Lewis Dunk,Matchweek 27,Home,L 0–2,Brighton,Aston Villa,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-03-05,Lewis Dunk,Matchweek 28,Away,L 1–2,Brighton,Newcastle Utd,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-03-12,Lewis Dunk,Matchweek 29,Home,L 0–2,Brighton,Liverpool,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-04-02,Lewis Dunk,Matchweek 31,Home,D 0–0,Brighton,Norwich City,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-04-09,Lewis Dunk,Matchweek 32,Away,W 2–1,Brighton,Arsenal,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-11-20,Jason Steele,Matchweek 12,Away,L 0–2,Brighton,Aston Villa,Y,GK,90,5,2,3,60,0,1.2,0,0,0,0,3,7,42.9,32,2,12.5,26.2,6,50,43.8,11,1,9.1,0,13
+2021-09-19,Kepa Arrizabalaga,Matchweek 5,Away,W 3–0,Chelsea,Tottenham,Y,GK,90,2,0,2,100,1,0.3,0,0,0,0,6,8,75,26,6,30.8,30,4,0,9.3,8,1,12.5,1,18.8
+2022-01-15,Kepa Arrizabalaga,Matchweek 22,Away,L 0–1,Chelsea,Manchester City,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,0,16,0,35,8,34.3,36.8,8,50,42.4,4,0,0,3,18.3
+2022-01-23,Kepa Arrizabalaga,Matchweek 23,Home,W 2–0,Chelsea,Tottenham,Y,GK,90,3,0,3,100,1,1,0,0,0,0,3,7,42.9,25,8,20,28.4,4,50,42,3,0,0,0,12.3
+2022-01-18,Kepa Arrizabalaga,Matchweek 24,Away,D 1–1,Chelsea,Brighton,Y,GK,90,2,1,1,50,0,0.9,0,0,0,0,7,8,87.5,32,6,25,26.6,5,0,18.2,16,0,0,1,14.2
+2022-01-22,Alphonse Areola,Matchweek 23,Away,L 0–1,West Ham,Manchester Utd,Y,GK,90,3,1,2,66.7,0,1.2,0,0,0,0,8,28,28.6,27,3,66.7,49.7,14,71.4,53.2,13,1,7.7,0,7
+2021-08-14,Edouard Mendy,Matchweek 1,Home,W 3–0,Chelsea,Crystal Palace,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,1,3,33.3,16,2,18.8,24.6,4,0,13,3,0,0,0,21
+2021-08-22,Edouard Mendy,Matchweek 2,Away,W 2–0,Chelsea,Arsenal,Y,GK,90,3,0,3,100,1,0,0,0,0,0,2,7,28.6,39,3,17.9,25.7,4,0,10,4,0,0,1,16.3
+2021-08-28,Edouard Mendy,Matchweek 3,Away,D 1–1,Chelsea,Liverpool,Y,GK,90,6,1,6,100,0,1.1,1,1,0,0,9,21,42.9,26,4,46.2,38.8,14,64.3,49.7,21,2,9.5,2,14
+2021-09-11,Edouard Mendy,Matchweek 4,Home,W 3–0,Chelsea,Aston Villa,Y,GK,90,6,0,6,100,1,0.8,0,0,0,0,4,9,44.4,27,7,22.2,26,9,33.3,30.7,14,1,7.1,0,13.3
+2021-09-25,Edouard Mendy,Matchweek 6,Home,L 0–1,Chelsea,Manchester City,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,5,11,45.5,21,5,33.3,36.4,13,30.8,27.7,9,1,11.1,0,9.8
+2021-10-02,Edouard Mendy,Matchweek 7,Home,W 3–1,Chelsea,Southampton,Y,GK,90,1,1,1,100,0,1.1,1,1,0,0,5,8,62.5,28,2,25,28.3,4,25,25.8,1,0,0,0,10
+2021-10-16,Edouard Mendy,Matchweek 8,Away,W 1–0,Chelsea,Brentford,Y,GK,90,5,0,4,100,1,1.7,0,0,0,0,2,12,16.7,24,4,45.8,38,1,100,67,18,0,0,0,10.8
+2021-10-23,Edouard Mendy,Matchweek 9,Home,W 7–0,Chelsea,Norwich City,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,2,4,50,19,2,15.8,25.1,6,16.7,16.5,2,1,50,0,15
+2021-10-30,Edouard Mendy,Matchweek 10,Away,W 3–0,Chelsea,Newcastle Utd,Y,GK,90,1,0,1,100,1,0,0,0,0,0,0,0,0,11,2,0,21.3,2,0,12,6,0,0,0,6
+2021-11-06,Edouard Mendy,Matchweek 11,Home,D 1–1,Chelsea,Burnley,Y,GK,90,2,1,1,50,0,1.2,0,0,0,0,2,4,50,22,2,18.2,26.2,6,0,15.8,5,1,20,1,33
+2021-11-20,Edouard Mendy,Matchweek 12,Away,W 3–0,Chelsea,Leicester City,Y,GK,90,3,0,3,100,1,0.2,0,0,0,0,7,11,63.6,28,4,32.1,30.9,4,50,38,3,0,0,0,12
+2021-11-28,Edouard Mendy,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y,GK,90,2,1,1,50,0,1.5,0,0,0,0,2,5,40,23,5,21.7,26.8,2,0,17.5,3,0,0,0,13
+2021-12-01,Edouard Mendy,Matchweek 14,Away,W 2–1,Chelsea,Watford,Y,GK,90,6,1,5,83.3,0,1.3,0,0,0,0,7,12,58.3,23,4,39.1,35.6,4,75,54.3,17,3,17.6,0,14.7
+2021-12-04,Edouard Mendy,Matchweek 15,Away,L 2–3,Chelsea,West Ham,Y,GK,90,3,3,1,33.3,0,1.3,1,1,0,0,4,10,40,22,5,27.3,30.9,8,50,37,7,1,14.3,0,6.4
+2021-12-11,Edouard Mendy,Matchweek 16,Home,W 3–2,Chelsea,Leeds United,Y,GK,90,4,2,3,75,0,1.1,1,1,0,0,4,6,66.7,30,7,20,29.2,2,0,10.5,5,0,0,1,12.2
+2021-12-16,Edouard Mendy,Matchweek 17,Home,D 1–1,Chelsea,Everton,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,1,2,50,24,7,8.3,19.5,3,0,6.7,2,0,0,2,18.1
+2021-12-19,Edouard Mendy,Matchweek 18,Away,D 0–0,Chelsea,Wolves,Y,GK,90,1,0,1,100,1,0.4,0,0,0,0,1,2,50,17,2,11.8,23.9,1,0,15,8,0,0,1,19.5
+2021-12-26,Edouard Mendy,Matchweek 19,Away,W 3–1,Chelsea,Aston Villa,Y,GK,90,1,1,1,0,0,0,0,0,0,0,2,3,66.7,16,5,18.8,27.8,2,0,12.5,8,1,12.5,2,14.8
+2021-12-29,Edouard Mendy,Matchweek 20,Home,D 1–1,Chelsea,Brighton,Y,GK,90,6,1,5,83.3,0,1.1,0,0,0,0,5,15,33.3,20,5,30,31.6,10,90,64.8,15,2,13.3,0,13.8
+2022-01-02,Edouard Mendy,Matchweek 21,Home,D 2–2,Chelsea,Liverpool,Y,GK,90,5,2,3,60,0,1.2,0,0,0,0,3,10,30,17,3,58.8,43.3,2,0,8.5,7,1,14.3,4,22.8
+2022-02-19,Edouard Mendy,Matchweek 26,Away,W 1–0,Chelsea,Crystal Palace,Y,GK,90,0,0,0,0,1,0,0,0,0,0,5,12,41.7,24,2,33.3,30.9,8,50,36,10,1,10,0,15.5
+2022-03-05,Edouard Mendy,Matchweek 28,Away,W 4–0,Chelsea,Burnley,Y,GK,90,0,0,0,0,1,0,0,0,0,0,3,12,25,31,5,29,31,5,60,40.8,9,2,22.2,0,8
+2022-03-13,Edouard Mendy,Matchweek 29,Home,W 1–0,Chelsea,Newcastle Utd,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,1,7,14.3,25,3,24,28.2,5,20,19.2,6,0,0,0,5.5
+2022-03-10,Edouard Mendy,Matchweek 30,Away,W 3–1,Chelsea,Norwich City,Y,GK,90,2,1,2,100,0,1.8,1,1,0,0,1,4,25,21,2,14.3,21,8,12.5,18.8,6,0,0,1,14.3
+2022-04-02,Edouard Mendy,Matchweek 31,Home,L 1–4,Chelsea,Brentford,Y,GK,90,6,4,2,33.3,0,3.4,0,0,0,0,6,10,60,18,1,44.4,34.9,7,28.6,22,5,1,20,0,18
+2022-04-09,Edouard Mendy,Matchweek 32,Away,W 6–0,Chelsea,Southampton,Y,GK,90,1,0,1,100,1,0.6,0,0,0,0,0,0,0,13,2,0,16.9,3,0,11,11,0,0,0,6
+2021-08-14,Alex McCarthy,Matchweek 1,Away,L 1–3,Southampton,Everton,Y,GK,90,6,3,3,50,0,3.7,0,0,0,0,5,19,26.3,19,5,52.6,47.1,10,90,68.5,13,2,15.4,0,9.5
+2021-08-22,Alex McCarthy,Matchweek 2,Home,D 1–1,Southampton,Manchester Utd,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,4,21,19,15,2,80,52.2,10,90,66.8,7,0,0,0,9.5
+2021-08-28,Alex McCarthy,Matchweek 3,Away,D 2–2,Southampton,Newcastle Utd,Y,GK,90,4,2,2,50,0,1.6,0,0,0,0,2,10,20,14,6,35.7,38.6,7,71.4,53.4,7,1,14.3,0,12
+2021-09-11,Alex McCarthy,Matchweek 4,Home,D 0–0,Southampton,West Ham,Y,GK,90,3,0,3,100,1,0.7,0,0,0,0,7,10,70,31,6,25.8,28.4,3,66.7,52,16,3,18.8,0,15
+2021-09-18,Alex McCarthy,Matchweek 5,Away,D 0–0,Southampton,Manchester City,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,6,29,20.7,25,0,72,53.4,12,91.7,65.8,10,1,10,0,14.8
+2021-09-26,Alex McCarthy,Matchweek 6,Home,L 0–1,Southampton,Wolves,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,3,7,42.9,22,3,27.3,30.7,3,33.3,27.7,1,1,100,0,12
+2021-10-02,Alex McCarthy,Matchweek 7,Away,L 1–3,Southampton,Chelsea,Y,GK,90,9,3,6,66.7,0,2.9,0,0,0,0,8,25,32,25,1,68,48.3,9,88.9,66.9,7,1,14.3,0,5
+2021-10-16,Alex McCarthy,Matchweek 8,Home,W 1–0,Southampton,Leeds United,Y,GK,90,0,0,0,0,1,0,0,0,0,0,4,9,44.4,23,4,21.7,28.9,4,100,70.8,5,1,20,1,22.4
+2021-10-23,Alex McCarthy,Matchweek 9,Home,D 2–2,Southampton,Burnley,Y,GK,90,4,2,2,50,0,1.7,0,0,0,0,3,10,30,32,7,28.1,36,4,25,22.5,13,3,23.1,0,8.1
+2021-10-30,Alex McCarthy,Matchweek 10,Away,W 1–0,Southampton,Watford,Y,GK,90,4,0,3,100,1,0.7,0,0,0,0,6,14,42.9,28,10,35.7,35.4,10,40,35.1,16,2,12.5,1,13.6
+2021-11-05,Alex McCarthy,Matchweek 11,Home,W 1–0,Southampton,Aston Villa,Y,GK,90,3,0,3,100,1,0.1,0,0,0,0,7,25,28,34,1,55.9,39.4,9,66.7,52,13,0,0,0,12.3
+2021-11-20,Alex McCarthy,Matchweek 12,Away,L 1–2,Southampton,Norwich City,Y,GK,90,4,2,2,50,0,1.1,0,0,0,0,1,6,16.7,20,7,15,26.3,4,75,46.8,7,1,14.3,0,14.3
+2021-11-27,Alex McCarthy,Matchweek 13,Away,L 0–4,Southampton,Liverpool,Y,GK,90,6,4,2,33.3,0,2.4,0,0,0,0,9,29,31,23,1,69.6,52.4,13,100,72.7,7,0,0,0,10.4
+2021-12-01,Alex McCarthy,Matchweek 14,Home,D 2–2,Southampton,Leicester City,Y,GK,90,6,2,4,66.7,0,2.5,0,0,0,0,6,21,28.6,18,2,83.3,51.1,7,85.7,59.7,6,1,16.7,1,21.5
+2021-12-04,Alex McCarthy,Matchweek 15,Home,D 1–1,Southampton,Brighton,Y,GK,90,4,1,3,75,0,1.2,0,0,0,0,1,6,16.7,12,6,41.7,41.8,4,25,23.5,7,0,0,0,6.5
+2021-11-27,Martin Dúbravka,Matchweek 13,Away,L 0–2,Newcastle Utd,Arsenal,Y,GK,90,6,2,4,66.7,0,2.5,0,0,0,0,6,19,31.6,31,9,35.5,36.3,12,66.7,50.2,10,1,10,0,9.8
+2021-11-30,Martin Dúbravka,Matchweek 14,Home,D 1–1,Newcastle Utd,Norwich City,Y,GK,90,6,1,5,83.3,0,1.9,0,0,0,0,8,25,32,25,4,52,45.7,13,92.3,64.2,11,0,0,0,7.4
+2021-12-04,Martin Dúbravka,Matchweek 15,Home,W 1–0,Newcastle Utd,Burnley,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,13,27,48.1,21,0,66.7,48.3,13,100,66.6,6,0,0,1,15.5
+2021-12-12,Martin Dúbravka,Matchweek 16,Away,L 0–4,Newcastle Utd,Leicester City,Y,GK,90,4,4,1,25,0,3.8,1,1,0,0,3,11,27.3,23,3,21.7,29.2,9,66.7,49.4,6,1,16.7,0,14.4
+2021-12-16,Martin Dúbravka,Matchweek 17,Away,L 1–3,Newcastle Utd,Liverpool,Y,GK,90,8,3,5,62.5,0,2.7,0,0,0,0,10,36,27.8,27,1,81.5,56.9,14,100,68.9,8,0,0,1,12.6
+2021-12-19,Martin Dúbravka,Matchweek 18,Home,L 0–4,Newcastle Utd,Manchester City,Y,GK,90,7,4,3,42.9,0,3.5,0,0,0,0,13,18,72.2,29,6,34.5,33.3,8,100,66,5,1,20,0,11.4
+2021-12-27,Martin Dúbravka,Matchweek 19,Home,D 1–1,Newcastle Utd,Manchester Utd,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,7,24,29.2,20,3,60,47.4,12,100,68.3,7,0,0,1,16.1
+2022-03-17,Martin Dúbravka,Matchweek 20,Away,L 0–1,Newcastle Utd,Everton,Y,GK,90,3,1,2,66.7,0,0.2,0,0,0,0,6,12,50,21,3,28.6,30.1,6,100,62.7,6,2,33.3,0,14.5
+2022-03-10,Martin Dúbravka,Matchweek 21,Away,W 2–1,Newcastle Utd,Southampton,Y,GK,90,5,1,4,80,0,2.6,0,0,0,0,18,21,85.7,25,3,64,45.8,5,100,68,10,1,10,0,9.8
+2022-01-15,Martin Dúbravka,Matchweek 22,Home,D 1–1,Newcastle Utd,Watford,Y,GK,90,5,1,4,80,0,1,0,0,0,0,8,11,72.7,21,5,23.8,28.7,6,100,64.3,5,1,20,0,17
+2022-01-22,Martin Dúbravka,Matchweek 23,Away,W 1–0,Newcastle Utd,Leeds United,Y,GK,90,4,0,4,100,1,1.2,0,0,0,0,14,26,53.8,24,5,70.8,49.6,9,100,64.3,13,2,15.4,0,6.8
+2022-02-08,Martin Dúbravka,Matchweek 24,Home,W 3–1,Newcastle Utd,Everton,Y,GK,90,2,1,2,50,0,0.1,0,0,0,0,9,17,52.9,13,2,53.8,40.2,11,90.9,61.5,10,0,0,0,20
+2022-02-13,Martin Dúbravka,Matchweek 25,Home,W 1–0,Newcastle Utd,Aston Villa,Y,GK,90,1,0,1,100,1,0,0,0,0,0,13,27,48.1,23,2,69.6,47,11,100,70.1,7,2,28.6,1,10.8
+2022-02-19,Martin Dúbravka,Matchweek 26,Away,D 1–1,Newcastle Utd,West Ham,Y,GK,90,3,1,1,66.7,0,1.2,0,0,0,0,9,16,56.3,30,4,33.3,36.9,6,100,65.8,9,1,11.1,0,17.5
+2022-02-26,Martin Dúbravka,Matchweek 27,Away,W 2–0,Newcastle Utd,Brentford,Y,GK,90,1,0,1,100,1,0.2,0,0,0,0,5,7,71.4,13,1,15.4,27.3,7,71.4,52,7,0,0,0,15
+2022-03-05,Martin Dúbravka,Matchweek 28,Home,W 2–1,Newcastle Utd,Brighton,Y,GK,90,4,1,3,75,0,1.6,0,0,0,0,12,31,38.7,26,1,88.5,55,8,100,68.5,17,1,5.9,0,9
+2022-03-13,Martin Dúbravka,Matchweek 29,Away,L 0–1,Newcastle Utd,Chelsea,Y,GK,90,3,1,1,66.7,0,1,0,0,0,0,10,22,45.5,19,1,73.7,54.5,9,88.9,61.9,7,0,0,0,11
+2022-04-03,Martin Dúbravka,Matchweek 31,Away,L 1–5,Newcastle Utd,Tottenham,Y,GK,90,6,5,1,16.7,0,4.2,0,0,0,0,4,12,33.3,25,6,24,30.5,11,54.5,45.4,10,0,0,0,13.5
+2022-04-08,Martin Dúbravka,Matchweek 32,Home,W 1–0,Newcastle Utd,Wolves,Y,GK,90,2,0,2,100,1,0,0,0,0,0,2,11,18.2,17,3,35.3,35.5,5,100,66.8,6,0,0,1,12.3
+2021-08-15,Ederson,Matchweek 1,Away,L 0–1,Manchester City,Tottenham,Y,GK,90,2,1,1,50,0,0.6,0,0,0,0,4,6,66.7,16,6,31.3,34.9,6,16.7,35.2,3,0,0,2,21.4
+2021-08-21,Ederson,Matchweek 2,Home,W 5–0,Manchester City,Norwich City,Y,GK,90,0,0,0,0,1,0,0,0,0,0,3,3,100,10,3,30,27.6,2,0,29.5,4,0,0,2,17.6
+2021-08-28,Ederson,Matchweek 3,Home,W 5–0,Manchester City,Arsenal,Y,GK,90,0,0,0,0,1,0,0,0,0,0,3,7,42.9,33,2,18.2,27.2,4,25,38.3,2,0,0,1,16.5
+2021-09-11,Ederson,Matchweek 4,Away,W 1–0,Manchester City,Leicester City,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,2,4,50,18,7,22.2,31.2,6,0,25.7,6,0,0,1,14
+2021-09-18,Ederson,Matchweek 5,Home,D 0–0,Manchester City,Southampton,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,4,4,100,34,8,8.8,21.6,5,20,25,5,0,0,1,18.2
+2021-09-25,Ederson,Matchweek 6,Away,W 1–0,Manchester City,Chelsea,Y,GK,90,0,0,0,0,1,0,0,0,0,0,4,10,40,28,4,28.6,37.2,3,66.7,58,9,1,11.1,1,16.4
+2021-10-03,Ederson,Matchweek 7,Away,D 2–2,Manchester City,Liverpool,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,5,12,41.7,34,12,35.3,34.1,2,0,17.5,7,1,14.3,2,14.6
+2021-10-23,Ederson,Matchweek 9,Away,W 4–1,Manchester City,Brighton,Y,GK,90,4,1,4,100,0,1.1,1,1,0,0,6,12,50,29,6,27.6,32.2,8,50,41.8,9,2,22.2,2,18.6
+2021-10-30,Ederson,Matchweek 10,Home,L 0–2,Manchester City,Crystal Palace,Y,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,5,8,62.5,26,2,23.1,28.5,4,50,35.8,2,0,0,1,18
+2021-11-06,Ederson,Matchweek 11,Away,W 2–0,Manchester City,Manchester Utd,Y,GK,90,1,0,1,100,1,0,0,0,0,0,2,3,66.7,20,0,15,24.7,4,0,23,4,0,0,0,0
+2021-11-21,Ederson,Matchweek 12,Home,W 3–0,Manchester City,Everton,Y,GK,90,1,0,1,100,1,0,0,0,0,0,1,1,100,22,7,4.5,21,0,0,0,5,1,20,1,24.3
+2021-11-28,Ederson,Matchweek 13,Home,W 2–1,Manchester City,West Ham,Y,GK,90,4,1,3,75,0,0.3,0,0,0,0,4,7,57.1,38,6,15.8,26.6,2,50,45.5,9,1,11.1,0,10
+2021-12-01,Ederson,Matchweek 14,Away,W 2–1,Manchester City,Aston Villa,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,6,9,66.7,16,0,43.8,40.1,4,50,37,10,0,0,1,16
+2021-12-04,Ederson,Matchweek 15,Away,W 3–1,Manchester City,Watford,Y,GK,90,4,1,3,75,0,0.6,0,0,0,0,4,7,57.1,29,6,20.7,25.3,6,16.7,24.5,6,1,16.7,2,25.7
+2021-12-11,Ederson,Matchweek 16,Home,W 1–0,Manchester City,Wolves,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,4,4,100,20,4,20,29.6,1,0,20,1,0,0,0,6.3
+2021-12-14,Ederson,Matchweek 17,Home,W 7–0,Manchester City,Leeds United,Y,GK,90,3,0,3,100,1,0,0,0,0,0,2,2,100,36,6,5.6,25,4,0,16.8,4,0,0,1,20
+2021-12-19,Ederson,Matchweek 18,Away,W 4–0,Manchester City,Newcastle Utd,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,7,10,70,27,4,29.6,34,7,28.6,32.1,10,3,30,1,15.8
+2021-12-26,Ederson,Matchweek 19,Home,W 6–3,Manchester City,Leicester City,Y,GK,90,8,3,3,62.5,0,3.1,0,0,0,0,1,1,100,14,5,7.1,23.8,3,0,20.3,4,0,0,1,18.3
+2021-12-29,Ederson,Matchweek 20,Away,W 1–0,Manchester City,Brentford,Y,GK,90,2,0,2,100,1,0.5,0,0,0,0,5,10,50,12,3,50,44,5,80,54.2,4,0,0,1,22
+2022-01-01,Ederson,Matchweek 21,Away,W 2–1,Manchester City,Arsenal,Y,GK,90,2,1,1,50,0,0.4,0,0,0,0,10,14,71.4,38,6,28.9,30.4,6,50,53.2,9,1,11.1,0,14
+2022-01-15,Ederson,Matchweek 22,Home,W 1–0,Manchester City,Chelsea,Y,GK,90,1,0,1,100,1,0.2,0,0,0,0,4,6,66.7,30,5,20,25.8,2,0,17,7,0,0,1,16.3
+2022-01-22,Ederson,Matchweek 23,Away,D 1–1,Manchester City,Southampton,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,2,5,40,26,2,19.2,30.5,2,0,13,0,0,0,2,34.3
+2022-02-09,Ederson,Matchweek 24,Home,W 2–0,Manchester City,Brentford,Y,GK,90,2,0,2,100,1,0.2,0,0,0,0,1,12,8.3,25,2,40,37.2,2,100,65,0,0,0,0,14.7
+2022-02-12,Ederson,Matchweek 25,Away,W 4–0,Manchester City,Norwich City,Y,GK,90,3,0,3,100,1,0.3,0,0,0,0,5,7,71.4,30,4,23.3,32.5,4,0,18.5,4,0,0,2,18.5
+2022-02-19,Ederson,Matchweek 26,Home,L 2–3,Manchester City,Tottenham,Y,GK,90,5,3,2,40,0,2.3,0,0,0,0,0,1,0,18,2,5.6,24.9,3,0,22.3,1,0,0,0,19
+2022-02-26,Ederson,Matchweek 27,Away,W 1–0,Manchester City,Everton,Y,GK,90,2,0,2,100,1,0.4,0,0,0,0,2,11,18.2,28,3,35.7,38.3,5,20,21.8,5,0,0,0,9.6
+2022-03-06,Ederson,Matchweek 28,Home,W 4–1,Manchester City,Manchester Utd,Y,GK,90,2,1,1,50,0,1,0,0,0,0,10,11,90.9,42,2,26.2,30.2,3,0,19,4,1,25,0,8.3
+2022-03-14,Ederson,Matchweek 29,Away,D 0–0,Manchester City,Crystal Palace,Y,GK,90,1,0,1,100,1,0,0,0,0,0,4,7,57.1,19,1,36.8,32.9,7,0,20.4,3,0,0,0,10
+2022-04-02,Ederson,Matchweek 31,Away,W 2–0,Manchester City,Burnley,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,5,11,45.5,37,2,29.7,30.3,2,0,12,3,1,33.3,0,0
+2022-04-10,Ederson,Matchweek 32,Home,D 2–2,Manchester City,Liverpool,Y,GK,90,4,2,2,50,0,2,0,0,0,0,3,7,42.9,44,5,15.9,24.7,2,0,30,4,1,25,1,16.6
+2022-03-18,Kristoffer Klaesson,Matchweek 30,Away,W 3–2,Leeds United,Wolves,N,GK,36,4,0,4,100,0,0.3,0,0,0,0,2,4,50,8,2,37.5,34.4,3,33.3,31,4,1,25,0,25
+2021-10-16,Zack Steffen,Matchweek 8,Home,W 2–0,Manchester City,Burnley,Y,GK,90,2,0,2,100,1,0.3,0,0,0,0,4,9,44.4,31,6,22.6,26,7,28.6,25.3,7,0,0,2,17.5
+2021-09-11,Aaron Ramsdale,Matchweek 4,Home,W 1–0,Arsenal,Norwich City,Y,GK,90,1,0,1,100,1,0,0,0,0,0,4,10,40,24,4,25,30.1,6,66.7,57.2,5,0,0,1,14.7
+2021-09-18,Aaron Ramsdale,Matchweek 5,Away,W 1–0,Arsenal,Burnley,Y,GK,90,3,0,3,100,1,0.6,0,0,0,0,8,20,40,40,10,30,32.6,9,88.9,71,24,2,8.3,1,13.8
+2021-09-26,Aaron Ramsdale,Matchweek 6,Home,W 3–1,Arsenal,Tottenham,Y,GK,90,4,1,2,75,0,1.1,0,0,0,0,9,23,39.1,25,2,56,45.3,10,90,57.3,9,1,11.1,0,13.5
+2021-10-02,Aaron Ramsdale,Matchweek 7,Away,D 0–0,Arsenal,Brighton,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,4,22,18.2,22,10,40.9,35.1,15,86.7,63.8,8,0,0,0,19.8
+2021-10-18,Aaron Ramsdale,Matchweek 8,Home,D 2–2,Arsenal,Crystal Palace,Y,GK,90,6,2,4,66.7,0,1.6,0,0,0,0,8,14,57.1,24,5,54.2,42.1,3,33.3,36,4,1,25,1,16.8
+2021-10-22,Aaron Ramsdale,Matchweek 9,Home,W 3–1,Arsenal,Aston Villa,Y,GK,90,4,1,3,75,0,1.3,0,0,0,0,8,14,57.1,23,5,43.5,35,4,100,69.8,6,2,33.3,1,14.1
+2021-10-30,Aaron Ramsdale,Matchweek 10,Away,W 2–0,Arsenal,Leicester City,Y,GK,90,8,0,6,100,1,1.5,0,0,0,0,7,30,23.3,39,6,64.1,48.3,7,71.4,54.6,9,0,0,1,14.7
+2021-11-07,Aaron Ramsdale,Matchweek 11,Home,W 1–0,Arsenal,Watford,Y,GK,90,1,0,1,100,1,0,0,0,0,0,8,13,61.5,31,4,38.7,35.4,5,20,28.4,10,2,20,0,15.4
+2021-11-20,Aaron Ramsdale,Matchweek 12,Away,L 0–4,Arsenal,Liverpool,Y,GK,90,9,4,5,55.6,0,4.4,0,0,0,0,5,14,35.7,28,3,35.7,32.6,7,57.1,50.4,8,0,0,0,10.2
+2021-11-27,Aaron Ramsdale,Matchweek 13,Home,W 2–0,Arsenal,Newcastle Utd,Y,GK,90,5,0,4,100,1,0.1,0,0,0,0,3,6,50,18,4,33.3,31.9,1,0,10,9,1,11.1,0,13
+2021-12-02,Aaron Ramsdale,Matchweek 14,Away,L 2–3,Arsenal,Manchester Utd,Y,GK,90,9,3,7,77.8,0,2.3,1,1,0,0,5,17,29.4,33,7,39.4,33.9,4,100,62.5,8,0,0,1,12.5
+2021-12-06,Aaron Ramsdale,Matchweek 15,Away,L 1–2,Arsenal,Everton,Y,GK,90,4,2,2,50,0,0.4,0,0,0,0,6,14,42.9,34,8,32.4,35.9,7,42.9,41.6,7,2,28.6,0,14.3
+2021-12-11,Aaron Ramsdale,Matchweek 16,Home,W 3–0,Arsenal,Southampton,Y,GK,90,6,0,6,100,1,0.3,0,0,0,0,6,18,33.3,43,1,34.9,33.7,3,100,74.3,4,0,0,0,16.3
+2021-12-15,Aaron Ramsdale,Matchweek 17,Home,W 2–0,Arsenal,West Ham,Y,GK,90,1,0,1,100,1,0.5,0,0,0,0,4,11,36.4,20,3,25,32.1,7,85.7,65.3,10,1,10,0,14.5
+2021-12-18,Aaron Ramsdale,Matchweek 18,Away,W 4–1,Arsenal,Leeds United,Y,GK,90,1,1,1,100,0,1,1,1,0,0,7,22,31.8,32,6,43.8,39.8,8,100,68.3,6,1,16.7,1,16.5
+2021-12-26,Aaron Ramsdale,Matchweek 19,Away,W 5–0,Arsenal,Norwich City,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,6,11,54.5,29,6,27.6,32,3,100,69.7,6,0,0,2,17.7
+2022-02-24,Aaron Ramsdale,Matchweek 20,Home,W 2–1,Arsenal,Wolves,Y,GK,90,2,1,1,50,0,0.7,0,0,0,0,4,9,44.4,23,3,34.8,33.2,5,20,34.6,2,0,0,1,19
+2022-01-01,Aaron Ramsdale,Matchweek 21,Home,L 1–2,Arsenal,Manchester City,Y,GK,90,1,2,0,0,0,1.3,1,1,0,0,12,33,36.4,28,2,85.7,62.6,9,100,76.2,4,0,0,0,9.8
+2022-01-23,Aaron Ramsdale,Matchweek 23,Home,D 0–0,Arsenal,Burnley,Y,GK,90,1,0,1,100,1,0,0,0,0,0,2,11,18.2,32,4,25,34.8,5,60,51.4,1,0,0,2,19.5
+2022-02-10,Aaron Ramsdale,Matchweek 24,Away,W 1–0,Arsenal,Wolves,Y,GK,90,4,0,4,100,1,0.2,0,0,0,0,3,21,14.3,22,7,63.6,46,9,77.8,64,24,2,8.3,1,13.1
+2022-02-19,Aaron Ramsdale,Matchweek 26,Home,W 2–1,Arsenal,Brentford,Y,GK,90,2,1,1,50,0,0.2,0,0,0,0,10,22,45.5,37,4,56.8,44.9,1,100,86,4,1,25,2,15.4
+2022-03-16,Aaron Ramsdale,Matchweek 27,Home,L 0–2,Arsenal,Liverpool,Y,GK,90,3,2,1,33.3,0,1,0,0,0,0,4,19,21.1,28,3,50,41,6,83.3,66.5,6,1,16.7,2,18.8
+2022-03-06,Aaron Ramsdale,Matchweek 28,Away,W 3–2,Arsenal,Watford,Y,GK,90,7,2,5,71.4,0,1.3,0,0,0,0,2,12,16.7,31,6,32.3,34.2,4,50,48.3,6,2,33.3,2,21.7
+2022-03-13,Aaron Ramsdale,Matchweek 29,Home,W 2–0,Arsenal,Leicester City,Y,GK,90,3,0,3,100,1,0.7,0,0,0,0,5,14,35.7,37,4,35.1,35.8,1,100,73,7,0,0,0,11.5
+2022-04-04,Aaron Ramsdale,Matchweek 31,Away,L 0–3,Arsenal,Crystal Palace,Y,GK,90,4,3,2,50,0,1.8,1,1,0,0,4,7,57.1,25,3,28,29.6,5,0,15.2,4,0,0,3,23.6
+2022-04-09,Aaron Ramsdale,Matchweek 32,Home,L 1–2,Arsenal,Brighton,Y,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,3,5,60,23,5,17.4,24.7,3,33.3,34,2,0,0,2,25.2
+2021-08-14,Jordan Pickford,Matchweek 1,Home,W 3–1,Everton,Southampton,Y,GK,90,3,1,2,66.7,0,1,0,0,0,0,10,26,38.5,31,5,74.2,50.6,4,75,59,10,0,0,1,12.6
+2021-08-21,Jordan Pickford,Matchweek 2,Away,D 2–2,Everton,Leeds United,Y,GK,90,4,2,2,50,0,1.5,0,0,0,0,5,27,18.5,18,3,77.8,55,13,100,75.7,9,1,11.1,0,12
+2021-08-28,Jordan Pickford,Matchweek 3,Away,W 2–0,Everton,Brighton,Y,GK,90,3,0,3,100,1,0.5,0,0,0,0,5,20,25,13,0,84.6,61.2,10,90,74.2,6,1,16.7,0,14
+2021-09-13,Jordan Pickford,Matchweek 4,Home,W 3–1,Everton,Burnley,Y,GK,90,5,1,4,80,0,0.7,0,0,0,0,7,19,36.8,23,7,65.2,49,7,57.1,55.4,11,1,9.1,0,10.6
+2021-09-25,Jordan Pickford,Matchweek 6,Home,W 2–0,Everton,Norwich City,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,9,21,42.9,22,3,54.5,46.2,11,81.8,62.5,7,0,0,1,15.3
+2021-10-02,Jordan Pickford,Matchweek 7,Away,D 1–1,Everton,Manchester Utd,Y,GK,90,6,1,5,83.3,0,0.5,0,0,0,0,6,23,26.1,20,3,80,56.1,8,87.5,71.5,11,0,0,0,6.5
+2021-10-17,Jordan Pickford,Matchweek 8,Home,L 0–1,Everton,West Ham,Y,GK,90,4,1,3,75,0,1.7,0,0,0,0,8,20,40,24,6,50,46.1,11,72.7,61.9,13,3,23.1,2,15.7
+2021-10-23,Jordan Pickford,Matchweek 9,Home,L 2–5,Everton,Watford,Y,GK,90,8,5,3,37.5,0,4.5,0,0,0,0,4,20,20,28,4,60.7,48.5,8,37.5,44,15,0,0,0,18
+2021-11-01,Jordan Pickford,Matchweek 10,Away,L 1–2,Everton,Wolves,Y,GK,90,4,2,2,50,0,1.6,0,0,0,0,1,16,6.3,20,0,65,51.5,3,100,72,2,0,0,1,13.3
+2021-11-07,Jordan Pickford,Matchweek 11,Home,D 0–0,Everton,Tottenham,Y,GK,90,0,0,0,0,1,0,0,0,0,0,4,12,33.3,23,5,43.5,41.4,3,66.7,56.3,8,1,12.5,1,15
+2021-11-21,Jordan Pickford,Matchweek 12,Away,L 0–3,Everton,Manchester City,Y,GK,90,7,3,4,57.1,0,2.3,0,0,0,0,4,29,13.8,24,2,70.8,50.7,13,92.3,64.7,10,0,0,1,15.7
+2021-11-28,Jordan Pickford,Matchweek 13,Away,L 0–1,Everton,Brentford,Y,GK,90,3,1,3,100,0,1.1,1,1,0,0,8,14,57.1,21,2,61.9,46,2,50,40.5,9,3,33.3,2,27.8
+2021-12-01,Jordan Pickford,Matchweek 14,Home,L 1–4,Everton,Liverpool,Y,GK,90,7,4,3,42.9,0,2.9,0,0,0,0,13,28,46.4,26,4,73.1,56.7,9,100,68.6,7,1,14.3,0,14
+2021-12-06,Jordan Pickford,Matchweek 15,Home,W 2–1,Everton,Arsenal,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,11,24,45.8,30,3,60,50.4,7,85.7,69.1,10,0,0,0,16.8
+2021-12-12,Jordan Pickford,Matchweek 16,Away,L 1–3,Everton,Crystal Palace,Y,GK,90,6,3,3,50,0,1.3,0,0,0,0,6,16,37.5,16,4,50,43.3,8,100,73,8,2,25,0,10.5
+2021-12-16,Jordan Pickford,Matchweek 17,Away,D 1–1,Everton,Chelsea,Y,GK,90,10,1,9,90,0,3,0,0,0,0,7,33,21.2,24,3,83.3,59.9,13,100,73.2,11,0,0,0,10.2
+2022-04-06,Jordan Pickford,Matchweek 19,Away,L 2–3,Everton,Burnley,Y*,GK,90,4,3,1,25,0,2.5,0,0,0,0,9,26,34.6,18,0,100,65.4,8,100,71,5,0,0,1,21
+2022-01-02,Jordan Pickford,Matchweek 21,Home,L 2–3,Everton,Brighton,Y,GK,90,5,3,2,40,0,2.6,0,0,0,0,7,20,35,31,5,58.1,48.6,5,40,37.4,4,0,0,4,24.7
+2022-01-15,Jordan Pickford,Matchweek 22,Away,L 1–2,Everton,Norwich City,Y,GK,90,3,2,2,33.3,0,1.2,0,0,0,0,7,12,58.3,16,2,68.8,50.5,2,50,45.5,9,1,11.1,1,21
+2022-01-22,Jordan Pickford,Matchweek 23,Home,L 0–1,Everton,Aston Villa,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,16,38,42.1,36,2,86.1,59.3,7,100,80.7,5,0,0,1,21
+2022-02-08,Jordan Pickford,Matchweek 24,Away,L 1–3,Everton,Newcastle Utd,Y,GK,90,8,3,6,62.5,0,2.2,0,0,0,0,5,18,27.8,29,8,51.7,43.3,4,75,59.5,7,0,0,1,13.6
+2022-02-12,Jordan Pickford,Matchweek 25,Home,W 3–0,Everton,Leeds United,Y,GK,90,0,0,0,0,1,0,0,0,0,0,13,27,48.1,24,1,62.5,47,12,100,73.5,7,0,0,1,17.4
+2022-02-19,Jordan Pickford,Matchweek 26,Away,L 0–2,Everton,Southampton,Y,GK,90,11,2,9,81.8,0,3.3,0,0,0,0,18,37,48.6,37,0,83.8,61.1,6,100,73.2,5,0,0,0,9
+2022-02-26,Jordan Pickford,Matchweek 27,Home,L 0–1,Everton,Manchester City,Y,GK,90,8,1,7,87.5,0,1.3,0,0,0,0,4,17,23.5,28,7,50,44.7,9,33.3,36.2,9,1,11.1,0,11
+2022-03-07,Jordan Pickford,Matchweek 28,Away,L 0–5,Everton,Tottenham,Y,GK,90,7,5,3,28.6,0,3,0,0,0,0,1,12,8.3,19,2,57.9,47.4,6,16.7,30.8,7,0,0,0,8.8
+2022-03-13,Jordan Pickford,Matchweek 29,Home,L 0–1,Everton,Wolves,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,7,16,43.8,29,6,51.7,43.8,7,14.3,31.4,9,0,0,0,11.5
+2022-04-03,Jordan Pickford,Matchweek 31,Away,L 1–2,Everton,West Ham,Y,GK,90,5,2,3,60,0,1.1,0,0,0,0,7,21,33.3,33,5,45.5,41.4,9,66.7,53.3,9,0,0,2,13.4
+2022-04-09,Jordan Pickford,Matchweek 32,Home,W 1–0,Everton,Manchester Utd,Y,GK,90,4,0,4,100,1,0.6,0,0,0,0,7,27,25.9,34,3,64.7,53.9,6,83.3,68,11,1,9.1,0,15.1
+2021-08-14,Nick Pope,Matchweek 1,Home,L 1–2,Burnley,Brighton,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,4,8,50,17,7,35.3,38.4,4,50,45,8,0,0,0,15.5
+2021-08-21,Nick Pope,Matchweek 2,Away,L 0–2,Burnley,Liverpool,Y,GK,90,8,2,6,75,0,2,0,0,0,0,11,34,32.4,24,1,87.5,63.7,13,100,74,8,2,25,2,17.6
+2021-08-29,Nick Pope,Matchweek 3,Home,D 1–1,Burnley,Leeds United,Y,GK,90,2,1,1,50,0,0.9,0,0,0,0,13,30,43.3,22,1,95.5,62.5,9,100,69.4,12,1,8.3,3,19.4
+2021-09-13,Nick Pope,Matchweek 4,Away,L 1–3,Burnley,Everton,Y,GK,90,5,3,2,40,0,1.9,0,0,0,0,6,13,46.2,16,5,62.5,53,5,60,56.8,5,0,0,0,10.1
+2021-09-18,Nick Pope,Matchweek 5,Home,L 0–1,Burnley,Arsenal,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,11,19,57.9,25,8,64,47.6,5,60,46.2,6,2,33.3,2,16.9
+2021-09-25,Nick Pope,Matchweek 6,Away,D 2–2,Burnley,Leicester City,Y,GK,90,3,2,1,33.3,0,0.9,0,0,0,0,7,26,26.9,16,1,81.3,59.1,13,100,71.6,11,1,9.1,0,13
+2021-10-02,Nick Pope,Matchweek 7,Home,D 0–0,Burnley,Norwich City,Y,GK,90,2,0,2,100,1,0.7,0,0,0,0,4,12,33.3,25,12,32,37.6,5,80,56,11,1,9.1,3,18.9
+2021-10-16,Nick Pope,Matchweek 8,Away,L 0–2,Burnley,Manchester City,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,9,30,30,26,2,88.5,60.7,8,87.5,65.8,12,1,8.3,1,14.7
+2021-10-23,Nick Pope,Matchweek 9,Away,D 2–2,Burnley,Southampton,Y,GK,90,4,2,2,50,0,1,0,0,0,0,14,28,50,20,2,85,57.9,11,100,71.5,14,1,7.1,1,13.3
+2021-10-30,Nick Pope,Matchweek 10,Home,W 3–1,Burnley,Brentford,Y,GK,90,4,1,3,75,0,1.1,0,0,0,0,9,23,39.1,28,4,71.4,52.3,3,100,72.7,13,4,30.8,2,21.4
+2021-11-06,Nick Pope,Matchweek 11,Away,D 1–1,Burnley,Chelsea,Y,GK,90,4,1,3,75,0,1.1,0,0,0,0,12,32,37.5,18,0,100,67.5,14,100,68.4,11,1,9.1,2,16.8
+2021-11-20,Nick Pope,Matchweek 12,Home,D 3–3,Burnley,Crystal Palace,Y,GK,90,8,3,4,62.5,0,2.5,0,0,0,0,7,15,46.7,14,2,78.6,50.1,5,80,51.8,9,0,0,1,19.5
+2022-02-23,Nick Pope,Matchweek 13,Home,W 1–0,Burnley,Tottenham,Y,GK,90,3,0,2,100,1,1,0,0,0,0,8,23,34.8,15,0,93.3,61.1,10,90,62.1,10,0,0,0,12
+2021-12-01,Nick Pope,Matchweek 14,Away,D 0–0,Burnley,Wolves,Y,GK,90,3,0,3,100,1,0.8,0,0,0,0,7,23,30.4,18,3,83.3,56.9,10,80,60.5,14,0,0,0,13
+2021-12-04,Nick Pope,Matchweek 15,Away,L 0–1,Burnley,Newcastle Utd,Y,GK,90,4,1,3,75,0,0.8,0,0,0,0,13,26,50,22,1,90.9,59,6,100,67,7,0,0,4,24.1
+2021-12-12,Nick Pope,Matchweek 16,Home,D 0–0,Burnley,West Ham,Y,GK,90,3,0,3,100,1,0.3,0,0,0,0,12,26,46.2,19,5,78.9,55.3,12,91.7,59.5,11,2,18.2,0,17.2
+2022-02-05,Nick Pope,Matchweek 17,Home,D 0–0,Burnley,Watford,Y,GK,90,5,0,5,100,1,1,0,0,0,0,7,19,36.8,24,4,54.2,43.1,6,100,60.3,6,1,16.7,2,21
+2022-04-06,Nick Pope,Matchweek 19,Home,W 3–2,Burnley,Everton,Y,GK,90,2,2,2,100,0,2.4,2,2,0,0,9,26,34.6,24,4,66.7,48.7,10,100,73.6,17,1,5.9,2,19.2
+2022-03-01,Nick Pope,Matchweek 22,Home,L 0–2,Burnley,Leicester City,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,12,30,40,32,2,81.3,53.3,4,100,65.8,10,0,0,3,25.8
+2022-01-23,Nick Pope,Matchweek 23,Away,D 0–0,Burnley,Arsenal,Y,GK,90,5,0,5,100,1,0.8,0,0,0,0,9,27,33.3,21,2,81,53.2,10,100,66.5,10,0,0,1,17.2
+2022-02-08,Nick Pope,Matchweek 24,Home,D 1–1,Burnley,Manchester Utd,Y,GK,90,5,1,4,80,0,2.4,0,0,0,0,7,25,28,20,3,80,52.2,9,100,69,10,1,10,2,24.3
+2022-02-13,Nick Pope,Matchweek 25,Home,L 0–1,Burnley,Liverpool,Y,GK,90,4,1,3,75,0,1.5,0,0,0,0,11,28,39.3,29,7,72.4,50.4,8,87.5,58.8,6,1,16.7,1,16.7
+2022-02-19,Nick Pope,Matchweek 26,Away,W 3–0,Burnley,Brighton,Y,GK,90,1,0,1,100,1,0,0,0,0,0,5,22,22.7,21,4,71.4,55.9,7,100,73.1,18,3,16.7,3,17.4
+2022-02-26,Nick Pope,Matchweek 27,Away,D 1–1,Burnley,Crystal Palace,Y,GK,90,4,1,3,75,0,1.6,0,0,0,0,10,17,58.8,22,6,54.5,41,5,100,66.2,8,0,0,3,28.6
+2022-03-05,Nick Pope,Matchweek 28,Home,L 0–4,Burnley,Chelsea,Y,GK,90,5,4,1,20,0,2.8,0,0,0,0,3,11,27.3,15,4,60,48.5,2,100,65,4,0,0,1,14.6
+2022-03-12,Nick Pope,Matchweek 29,Away,L 0–2,Burnley,Brentford,Y,GK,90,2,2,1,50,0,2.1,1,1,0,0,8,31,25.8,32,2,84.4,56.6,4,100,69.8,11,0,0,3,16.7
+2022-04-02,Nick Pope,Matchweek 31,Home,L 0–2,Burnley,Manchester City,Y,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,14,32,43.8,22,2,90.9,59.1,12,100,63.1,7,1,14.3,0,11.6
+2022-04-10,Nick Pope,Matchweek 32,Away,L 0–2,Burnley,Norwich City,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,12,31,38.7,27,3,96.3,59.2,6,83.3,59.3,8,0,0,3,21
+2021-08-14,Kasper Schmeichel,Matchweek 1,Home,W 1–0,Leicester City,Wolves,Y*,GK,90,3,0,3,100,1,0.3,0,0,0,0,6,12,50,31,7,29,32.9,8,37.5,32.6,8,2,25,1,16
+2021-08-23,Kasper Schmeichel,Matchweek 2,Away,L 1–4,Leicester City,West Ham,Y*,GK,90,7,4,3,42.9,0,3.4,0,0,0,0,5,11,45.5,25,1,36,37.2,11,18.2,28.3,15,1,6.7,1,14.7
+2021-08-28,Kasper Schmeichel,Matchweek 3,Away,W 2–1,Leicester City,Norwich City,Y*,GK,90,3,1,3,100,0,1.1,1,1,0,0,5,17,29.4,27,6,44.4,39.4,9,55.6,49.6,7,0,0,0,14.7
+2021-09-11,Kasper Schmeichel,Matchweek 4,Home,L 0–1,Leicester City,Manchester City,Y*,GK,90,8,1,7,87.5,0,1.3,0,0,0,0,11,23,47.8,42,9,45.2,37.3,10,40,38.4,12,0,0,0,5.7
+2021-09-19,Kasper Schmeichel,Matchweek 5,Away,L 1–2,Leicester City,Brighton,Y*,GK,90,3,2,2,66.7,0,1.1,1,1,0,0,2,8,25,16,2,50,37.3,6,0,16.5,8,0,0,1,15.5
+2021-09-25,Kasper Schmeichel,Matchweek 6,Home,D 2–2,Leicester City,Burnley,Y*,GK,90,3,2,2,33.3,0,0.4,0,0,0,0,7,15,46.7,29,8,37.9,36.7,7,57.1,34.6,5,0,0,2,18
+2021-10-03,Kasper Schmeichel,Matchweek 7,Away,D 2–2,Leicester City,Crystal Palace,Y*,GK,90,4,2,2,50,0,0.8,0,0,0,0,11,32,34.4,29,0,82.8,51.3,11,72.7,58.7,13,1,7.7,0,10
+2021-10-16,Kasper Schmeichel,Matchweek 8,Home,W 4–2,Leicester City,Manchester Utd,Y*,GK,90,6,2,4,66.7,0,0.7,0,0,0,0,10,23,43.5,38,5,50,38.3,11,36.4,37.5,9,2,22.2,1,11.8
+2021-10-24,Kasper Schmeichel,Matchweek 9,Away,W 2–1,Leicester City,Brentford,Y*,GK,90,5,1,4,80,0,1.1,0,0,0,0,6,26,23.1,31,4,64.5,48.5,12,50,45.3,12,1,8.3,0,10.8
+2021-10-30,Kasper Schmeichel,Matchweek 10,Home,L 0–2,Leicester City,Arsenal,Y*,GK,90,5,2,3,60,0,1.9,0,0,0,0,4,10,40,36,6,25,33.8,6,16.7,30.3,5,1,20,0,15
+2021-11-07,Kasper Schmeichel,Matchweek 11,Away,D 1–1,Leicester City,Leeds United,Y*,GK,90,5,1,4,80,0,1.1,0,0,0,0,6,18,33.3,30,6,30,36.2,14,64.3,44,9,1,11.1,0,11.3
+2021-11-20,Kasper Schmeichel,Matchweek 12,Home,L 0–3,Leicester City,Chelsea,Y*,GK,90,7,3,4,57.1,0,2.9,0,0,0,0,9,20,45,33,7,42.4,42.5,7,85.7,50.3,4,0,0,1,14.1
+2021-11-28,Kasper Schmeichel,Matchweek 13,Home,W 4–2,Leicester City,Watford,Y*,GK,90,4,2,3,75,0,2.1,1,1,0,0,5,24,20.8,30,3,63.3,46,11,45.5,44.5,9,1,11.1,0,8.6
+2021-12-01,Kasper Schmeichel,Matchweek 14,Away,D 2–2,Leicester City,Southampton,Y*,GK,90,7,2,5,71.4,0,1.8,0,0,0,0,12,25,48,43,3,46.5,41.1,6,83.3,55.3,9,0,0,0,9.8
+2021-12-05,Kasper Schmeichel,Matchweek 15,Away,L 1–2,Leicester City,Aston Villa,Y*,GK,90,4,2,2,50,0,1.2,0,0,0,0,6,10,60,12,3,41.7,39.8,5,100,70,4,0,0,0,14.3
+2021-12-12,Kasper Schmeichel,Matchweek 16,Home,W 4–0,Leicester City,Newcastle Utd,Y*,GK,90,3,0,3,100,1,0.5,0,0,0,0,6,15,40,18,1,38.9,39.4,8,100,76.4,9,0,0,0,8
+2022-01-19,Kasper Schmeichel,Matchweek 17,Home,L 2–3,Leicester City,Tottenham,Y*,GK,90,8,3,5,62.5,0,3.7,0,0,0,0,7,19,36.8,31,3,48.4,40.3,9,44.4,40.9,9,2,22.2,0,13.6
+2021-12-26,Kasper Schmeichel,Matchweek 19,Away,L 3–6,Leicester City,Manchester City,Y*,GK,90,6,6,2,33.3,0,5.1,2,2,0,0,7,13,53.8,20,2,55,38.8,5,40,35.2,10,0,0,1,13.5
+2021-12-28,Kasper Schmeichel,Matchweek 20,Home,W 1–0,Leicester City,Liverpool,Y*,GK,90,3,0,3,100,1,1,2,0,1,1,12,28,42.9,22,3,72.7,47.1,14,85.7,60.7,15,1,6.7,0,9.8
+2022-03-01,Kasper Schmeichel,Matchweek 22,Away,W 2–0,Leicester City,Burnley,Y*,GK,90,2,0,2,100,1,0.9,0,0,0,0,5,15,33.3,19,3,57.9,45.4,10,40,39.5,6,0,0,0,13
+2022-01-23,Kasper Schmeichel,Matchweek 23,Home,D 1–1,Leicester City,Brighton,Y*,GK,90,4,1,3,75,0,1.5,0,0,0,0,9,17,52.9,25,6,56,41.3,5,60,47.4,8,1,12.5,0,10.9
+2022-02-10,Kasper Schmeichel,Matchweek 24,Away,L 0–2,Leicester City,Liverpool,Y*,GK,90,12,2,10,83.3,0,2.6,0,0,0,0,13,25,52,23,4,69.6,43.4,9,100,68.9,10,1,10,1,13.8
+2022-02-13,Kasper Schmeichel,Matchweek 25,Home,D 2–2,Leicester City,West Ham,Y*,GK,90,3,2,1,33.3,0,1.6,0,0,0,0,4,14,28.6,26,1,46.2,40.6,4,50,37.8,6,0,0,1,11.7
+2022-02-20,Kasper Schmeichel,Matchweek 26,Away,L 1–2,Leicester City,Wolves,Y*,GK,90,3,2,1,33.3,0,1.3,0,0,0,0,4,6,66.7,19,2,31.6,32.7,4,0,17.8,3,0,0,1,31.5
+2022-03-05,Kasper Schmeichel,Matchweek 28,Home,W 1–0,Leicester City,Leeds United,Y*,GK,90,4,0,4,100,1,1,0,0,0,0,5,12,41.7,27,6,33.3,32.5,8,37.5,38.3,7,0,0,3,17.9
+2022-03-13,Kasper Schmeichel,Matchweek 29,Away,L 0–2,Leicester City,Arsenal,Y*,GK,90,6,2,5,83.3,0,2.2,1,1,0,0,7,12,58.3,23,2,39.1,36.3,8,37.5,40,6,0,0,0,10.8
+2022-03-20,Kasper Schmeichel,Matchweek 30,Home,W 2–1,Leicester City,Brentford,Y*,GK,90,5,1,4,80,0,1.7,0,0,0,0,13,21,61.9,33,5,57.6,41.3,7,28.6,36.3,7,0,0,0,10.4
+2022-04-02,Kasper Schmeichel,Matchweek 31,Away,D 1–1,Leicester City,Manchester Utd,Y*,GK,90,5,1,4,80,0,1.3,0,0,0,0,5,12,41.7,22,7,45.5,36.8,7,28.6,31.7,9,0,0,0,8.3
+2022-04-10,Kasper Schmeichel,Matchweek 32,Home,W 2–1,Leicester City,Crystal Palace,Y*,GK,90,2,1,1,50,0,0.6,1,0,1,0,4,11,36.4,23,1,47.8,38.2,4,0,17,3,2,66.7,0,10.8
+2021-10-16,Caoimhín Kelleher,Matchweek 8,Away,W 5–0,Liverpool,Watford,Y,GK,90,2,0,1,100,1,0.3,0,0,0,0,5,7,71.4,38,3,15.8,24.9,5,20,20.6,3,0,0,1,14.6
+2022-01-02,Caoimhín Kelleher,Matchweek 21,Away,D 2–2,Liverpool,Chelsea,Y,GK,90,6,2,4,66.7,0,2.2,0,0,0,0,3,9,33.3,39,9,20.5,27.6,8,12.5,29.9,8,0,0,2,17.3
+2021-08-14,Robert Sánchez,Matchweek 1,Away,W 2–1,Brighton,Burnley,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,4,27,14.8,49,8,42.9,40,8,75,56.6,22,4,18.2,0,9
+2021-08-21,Robert Sánchez,Matchweek 2,Home,W 2–0,Brighton,Watford,Y,GK,90,1,0,1,100,1,0,0,0,0,0,4,13,30.8,31,4,29,32.7,8,50,43,9,3,33.3,1,15
+2021-08-28,Robert Sánchez,Matchweek 3,Home,L 0–2,Brighton,Everton,Y,GK,90,4,2,3,75,0,2,1,1,0,0,0,9,0,36,7,19.4,30.9,6,33.3,43,5,1,20,0,14
+2021-09-11,Robert Sánchez,Matchweek 4,Away,W 1–0,Brighton,Brentford,Y,GK,90,1,0,1,100,1,0,0,0,0,0,6,23,26.1,32,3,56.3,48.9,7,71.4,60.1,11,4,36.4,0,12.5
+2021-09-19,Robert Sánchez,Matchweek 5,Home,W 2–1,Brighton,Leicester City,Y,GK,90,3,1,2,66.7,0,1,0,0,0,0,7,16,43.8,21,3,47.6,41.4,8,75,59.6,10,1,10,0,13
+2021-09-27,Robert Sánchez,Matchweek 6,Away,D 1–1,Brighton,Crystal Palace,Y,GK,90,2,1,2,100,0,1.1,1,1,0,0,15,28,53.6,60,7,43.3,37.6,6,33.3,32.2,6,0,0,2,15.3
+2021-10-02,Robert Sánchez,Matchweek 7,Home,D 0–0,Brighton,Arsenal,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,10,19,52.6,35,1,34.3,39.6,7,100,68.1,5,1,20,1,15.3
+2021-10-16,Robert Sánchez,Matchweek 8,Away,D 0–0,Brighton,Norwich City,Y,GK,90,2,0,2,100,1,0,0,0,0,0,5,12,41.7,32,6,15.6,29.1,7,100,69.7,8,0,0,3,22.5
+2021-10-23,Robert Sánchez,Matchweek 9,Home,L 1–4,Brighton,Manchester City,Y,GK,90,13,4,9,69.2,0,4,0,0,0,0,8,18,44.4,72,10,23.6,30.2,3,33.3,34,3,1,33.3,2,19.1
+2021-10-30,Robert Sánchez,Matchweek 10,Away,D 2–2,Brighton,Liverpool,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,8,24,33.3,38,2,44.7,44.3,7,100,76.9,6,1,16.7,3,15.6
+2021-11-06,Robert Sánchez,Matchweek 11,Home,D 1–1,Brighton,Newcastle Utd,Y,"GK,CB",89,2,1,1,50,0,0.8,0,0,0,0,2,11,18.2,41,5,26.8,31.6,2,0,9.5,8,0,0,1,14
+2021-11-27,Robert Sánchez,Matchweek 13,Home,D 0–0,Brighton,Leeds United,Y,GK,90,4,0,4,100,1,1.2,0,0,0,0,1,10,10,31,2,25.8,36.3,9,22.2,26.9,8,1,12.5,0,9.5
+2021-12-01,Robert Sánchez,Matchweek 14,Away,D 1–1,Brighton,West Ham,Y,GK,90,5,1,4,80,0,1.7,0,0,0,0,3,7,42.9,41,9,12.2,26.8,7,28.6,28,11,0,0,1,14.2
+2021-12-04,Robert Sánchez,Matchweek 15,Away,D 1–1,Brighton,Southampton,Y,GK,90,4,1,3,75,0,1,0,0,0,0,5,28,17.9,37,1,48.6,41,10,100,66.8,9,0,0,3,20
+2022-03-16,Robert Sánchez,Matchweek 16,Home,L 0–2,Brighton,Tottenham,Y,GK,90,7,2,5,71.4,0,3.5,0,0,0,0,1,17,5.9,29,4,34.5,39.9,7,100,67.4,3,0,0,2,16.5
+2021-12-15,Robert Sánchez,Matchweek 17,Home,L 0–1,Brighton,Wolves,Y,GK,90,5,1,4,80,0,0.8,0,0,0,0,4,13,30.8,31,2,35.5,39.9,3,66.7,50,5,2,40,3,26.8
+2022-02-15,Robert Sánchez,Matchweek 18,Away,L 0–2,Brighton,Manchester Utd,Y,GK,90,7,2,5,71.4,0,2.6,0,0,0,0,6,17,35.3,38,4,34.2,34.5,5,80,56.6,4,0,0,0,12.2
+2021-12-26,Robert Sánchez,Matchweek 19,Home,W 2–0,Brighton,Brentford,Y,GK,90,5,0,5,100,1,1,0,0,0,0,5,16,31.3,32,6,40.6,44,4,75,59.5,12,2,16.7,0,10.5
+2021-12-29,Robert Sánchez,Matchweek 20,Away,D 1–1,Brighton,Chelsea,Y,GK,90,5,1,3,80,0,1.1,0,0,0,0,5,9,55.6,33,4,24.2,33.4,4,25,26.5,7,1,14.3,1,15
+2022-01-02,Robert Sánchez,Matchweek 21,Away,W 3–2,Brighton,Everton,Y,GK,90,6,2,4,66.7,0,1.7,1,0,0,1,7,26,26.9,24,0,54.2,49.3,13,100,76.1,16,0,0,0,6
+2022-01-14,Robert Sánchez,Matchweek 22,Home,D 1–1,Brighton,Crystal Palace,Y,GK,90,1,1,0,0,0,0.8,0,0,0,0,1,8,12.5,22,1,36.4,34.8,5,0,20.6,6,0,0,0,4
+2022-01-23,Robert Sánchez,Matchweek 23,Away,D 1–1,Brighton,Leicester City,Y,GK,90,5,1,4,80,0,0.9,0,0,0,0,7,15,46.7,50,7,28,33.5,2,50,41,5,1,20,2,12.7
+2022-01-18,Robert Sánchez,Matchweek 24,Home,D 1–1,Brighton,Chelsea,Y,GK,90,3,1,2,66.7,0,0.2,0,0,0,0,8,9,88.9,21,5,28.6,31.6,7,42.9,38.7,8,2,25,1,16.8
+2022-02-12,Robert Sánchez,Matchweek 25,Away,W 2–0,Brighton,Watford,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,7,19,36.8,33,5,42.4,41.3,6,83.3,63.8,14,2,14.3,1,11.5
+2022-02-19,Robert Sánchez,Matchweek 26,Home,L 0–3,Brighton,Burnley,Y,GK,90,4,3,1,25,0,1.7,0,0,0,0,6,15,40,38,3,34.2,37.8,3,66.7,52.3,7,1,14.3,1,15.7
+2022-02-26,Robert Sánchez,Matchweek 27,Home,L 0–2,Brighton,Aston Villa,Y,GK,90,4,2,2,50,0,2,0,0,0,0,7,13,53.8,37,2,27,30.8,6,50,40.5,6,0,0,1,39
+2022-03-05,Robert Sánchez,Matchweek 28,Away,L 1–2,Brighton,Newcastle Utd,Y,GK,90,4,2,2,50,0,2,0,0,0,0,6,14,42.9,30,5,36.7,33.2,4,75,58.3,6,0,0,0,12
+2022-03-12,Robert Sánchez,Matchweek 29,Home,L 0–2,Brighton,Liverpool,Y,GK,90,8,2,7,87.5,0,1.9,1,1,0,0,5,29,17.2,51,8,43.1,37.5,7,100,70.6,7,0,0,0,10
+2022-04-02,Robert Sánchez,Matchweek 31,Home,D 0–0,Brighton,Norwich City,Y,GK,90,0,0,0,0,1,0,0,0,0,0,2,8,25,13,5,23.1,34.2,6,83.3,63.2,5,1,20,0,13.5
+2022-04-09,Robert Sánchez,Matchweek 32,Away,W 2–1,Brighton,Arsenal,Y,GK,90,4,1,3,75,0,1.3,0,0,0,0,2,18,11.1,25,2,56,52.6,4,100,65.5,9,1,11.1,0,11
+2021-08-14,Illan Meslier,Matchweek 1,Away,L 1–5,Leeds United,Manchester Utd,Y,GK,90,8,5,3,37.5,0,1.9,0,0,0,0,8,23,34.8,38,10,42.1,33.9,10,70,44.2,4,0,0,1,18.7
+2021-08-21,Illan Meslier,Matchweek 2,Home,D 2–2,Leeds United,Everton,Y,GK,90,7,2,6,85.7,0,3,1,1,0,0,2,3,66.7,20,6,15,23.2,8,0,22.8,3,0,0,2,19.5
+2021-08-29,Illan Meslier,Matchweek 3,Away,D 1–1,Leeds United,Burnley,Y,GK,90,3,1,1,66.7,0,0.7,0,0,0,0,5,15,33.3,37,10,32.4,31.6,7,42.9,34.9,9,2,22.2,1,16.2
+2021-09-12,Illan Meslier,Matchweek 4,Home,L 0–3,Leeds United,Liverpool,Y,GK,90,8,3,5,62.5,0,2.4,0,0,0,0,0,5,0,40,9,7.5,20.6,9,22.2,31.7,5,3,60,1,13.7
+2021-09-17,Illan Meslier,Matchweek 5,Away,D 1–1,Leeds United,Newcastle Utd,Y,GK,90,7,1,6,85.7,0,1.5,0,0,0,0,7,12,58.3,30,8,33.3,30.1,9,22.2,25.4,5,1,20,0,11.5
+2021-09-25,Illan Meslier,Matchweek 6,Home,L 1–2,Leeds United,West Ham,Y,GK,90,6,2,5,66.7,0,2.3,0,0,0,0,3,12,25,36,7,27.8,29.5,10,20,27.3,7,0,0,0,8.5
+2021-10-02,Illan Meslier,Matchweek 7,Home,W 1–0,Leeds United,Watford,Y,GK,90,1,0,1,100,1,0.2,0,0,0,0,3,5,60,29,4,17.2,25.6,6,0,17.7,5,0,0,2,19
+2021-10-16,Illan Meslier,Matchweek 8,Away,L 0–1,Leeds United,Southampton,Y,GK,90,4,1,3,75,0,1.1,0,0,0,0,6,18,33.3,37,3,37.8,34.3,15,26.7,29.6,8,0,0,2,21
+2021-10-23,Illan Meslier,Matchweek 9,Home,D 1–1,Leeds United,Wolves,Y,GK,90,4,1,3,75,0,0.9,0,0,0,0,2,5,40,22,5,22.7,27.3,4,0,18,2,0,0,4,26.8
+2021-10-31,Illan Meslier,Matchweek 10,Away,W 2–1,Leeds United,Norwich City,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,6,18,33.3,27,11,44.4,39.3,9,66.7,50.6,8,1,12.5,1,12.7
+2021-11-07,Illan Meslier,Matchweek 11,Home,D 1–1,Leeds United,Leicester City,Y,GK,90,3,1,2,66.7,0,1.8,0,0,0,0,6,11,54.5,24,7,29.2,29,10,40,38.2,1,0,0,0,15
+2021-11-21,Illan Meslier,Matchweek 12,Away,L 1–2,Leeds United,Tottenham,Y,GK,90,4,2,1,50,0,1.8,0,0,0,0,4,18,22.2,38,5,42.1,35.8,3,66.7,45.3,6,1,16.7,1,16.8
+2021-11-27,Illan Meslier,Matchweek 13,Away,D 0–0,Leeds United,Brighton,Y,GK,90,4,0,3,100,1,1.1,0,0,0,0,3,28,10.7,31,4,54.8,43.6,12,91.7,65,12,0,0,0,10.8
+2021-11-30,Illan Meslier,Matchweek 14,Home,W 1–0,Leeds United,Crystal Palace,Y,GK,90,1,0,1,100,1,0.2,0,0,0,0,3,6,50,29,5,20.7,27,10,0,19.8,8,0,0,1,11.8
+2021-12-05,Illan Meslier,Matchweek 15,Home,D 2–2,Leeds United,Brentford,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,1,10,10,21,8,33.3,34.5,5,60,43.2,8,1,12.5,3,18.8
+2021-12-11,Illan Meslier,Matchweek 16,Away,L 2–3,Leeds United,Chelsea,Y,GK,90,4,3,3,75,0,2.6,2,2,0,0,5,14,35.7,31,5,35.5,32.1,7,42.9,36.7,7,2,28.6,0,10
+2021-12-14,Illan Meslier,Matchweek 17,Away,L 0–7,Leeds United,Manchester City,Y,GK,90,15,7,8,53.3,0,4.2,0,0,0,0,3,15,20,32,7,34.4,33,12,33.3,37.9,3,0,0,0,12.8
+2021-12-18,Illan Meslier,Matchweek 18,Home,L 1–4,Leeds United,Arsenal,Y,GK,90,12,4,8,66.7,0,2.5,0,0,0,0,5,13,38.5,33,6,36.4,34,5,20,23.2,1,0,0,2,24
+2022-02-23,Illan Meslier,Matchweek 19,Away,L 0–6,Leeds United,Liverpool,Y,GK,90,12,6,8,66.7,0,5.1,2,2,0,0,8,25,32,33,11,51.5,37.9,10,80,57.6,6,0,0,1,12.6
+2022-03-10,Illan Meslier,Matchweek 20,Home,L 0–3,Leeds United,Aston Villa,Y,GK,90,9,3,6,66.7,0,3.1,0,0,0,0,1,3,33.3,14,4,21.4,28.1,5,0,14,8,0,0,1,29
+2022-01-02,Illan Meslier,Matchweek 21,Home,W 3–1,Leeds United,Burnley,Y,GK,90,2,1,1,50,0,0.9,0,0,0,0,5,13,38.5,25,6,36,34.2,9,44.4,33.4,8,1,12.5,0,10.8
+2022-01-16,Illan Meslier,Matchweek 22,Away,W 3–2,Leeds United,West Ham,Y,GK,90,5,2,3,60,0,1.5,0,0,0,0,3,14,21.4,33,2,27.3,28.9,11,45.5,39.9,15,0,0,1,12.2
+2022-01-22,Illan Meslier,Matchweek 23,Home,L 0–1,Leeds United,Newcastle Utd,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,4,8,50,29,5,20.7,24.9,5,40,34.6,5,0,0,1,12.8
+2022-02-09,Illan Meslier,Matchweek 24,Away,D 3–3,Leeds United,Aston Villa,Y,GK,90,4,3,1,25,0,2.6,0,0,0,0,2,7,28.6,21,8,28.6,33,7,14.3,27.7,5,1,20,0,14.3
+2022-02-12,Illan Meslier,Matchweek 25,Away,L 0–3,Leeds United,Everton,Y,GK,90,10,3,7,70,0,2.6,0,0,0,0,5,9,55.6,31,13,29,31.4,7,0,21.3,1,0,0,2,15.4
+2022-02-20,Illan Meslier,Matchweek 26,Home,L 2–4,Leeds United,Manchester Utd,Y,GK,90,9,4,5,55.6,0,2.5,0,0,0,0,3,13,23.1,34,9,38.2,34.4,4,0,17.5,7,0,0,0,7.8
+2022-02-26,Illan Meslier,Matchweek 27,Home,L 0–4,Leeds United,Tottenham,Y,GK,90,10,4,6,60,0,3.1,0,0,0,0,4,6,66.7,17,8,29.4,32.4,2,50,41.5,3,1,33.3,0,9.2
+2022-03-05,Illan Meslier,Matchweek 28,Away,L 0–1,Leeds United,Leicester City,Y,GK,90,4,1,3,75,0,0.9,0,0,0,0,5,6,83.3,35,14,17.1,24.7,1,0,31,4,0,0,0,14.4
+2022-03-13,Illan Meslier,Matchweek 29,Home,W 2–1,Leeds United,Norwich City,Y,GK,90,4,1,3,75,0,0.9,0,0,0,0,7,21,33.3,25,4,64,43,5,100,68.2,5,0,0,1,13.3
+2022-03-18,Illan Meslier,Matchweek 30,Away,W 3–2,Leeds United,Wolves,Y,GK,54,4,2,2,50,0,1.8,0,0,0,0,1,9,11.1,15,2,53.3,40.7,2,50,35.5,3,0,0,2,31
+2022-04-02,Illan Meslier,Matchweek 31,Home,D 1–1,Leeds United,Southampton,Y,GK,90,5,1,4,80,0,1.5,0,0,0,0,5,14,35.7,31,7,32.3,31.9,4,100,59,11,2,18.2,0,11.5
+2022-04-09,Illan Meslier,Matchweek 32,Away,W 3–0,Leeds United,Watford,Y,GK,90,1,0,1,100,1,0.9,0,0,0,0,5,16,31.3,21,0,42.9,36.2,7,100,64.4,10,2,20,1,14
+2021-12-30,Wayne Hennessey,Matchweek 20,Away,L 1–3,Burnley,Manchester Utd,Y,GK,90,6,3,3,50,0,2,0,0,0,0,10,24,41.7,24,4,70.8,54.4,8,87.5,68.5,10,0,0,1,16.8
+2022-01-02,Wayne Hennessey,Matchweek 21,Away,L 1–3,Burnley,Leeds United,Y,GK,90,7,3,4,57.1,0,2.2,0,0,0,0,16,41,39,35,4,80,60.2,13,100,70.7,10,1,10,2,15.4
+2021-08-14,Emiliano Martínez,Matchweek 1,Away,L 2–3,Aston Villa,Watford,Y,GK,90,7,3,4,57.1,0,1.1,0,0,0,0,6,9,66.7,26,9,23.1,28.8,7,42.9,42.9,4,0,0,1,15.7
+2021-08-21,Emiliano Martínez,Matchweek 2,Home,W 2–0,Aston Villa,Newcastle Utd,Y,GK,90,1,0,1,100,1,0,0,0,0,0,5,12,41.7,13,0,30.8,40.7,10,80,53,14,1,7.1,2,26.5
+2021-08-28,Emiliano Martínez,Matchweek 3,Home,D 1–1,Aston Villa,Brentford,Y,GK,90,2,1,1,50,0,1.1,0,0,0,0,8,19,42.1,28,4,53.6,43.2,7,57.1,47.4,7,1,14.3,1,13.9
+2021-09-18,Emiliano Martínez,Matchweek 5,Home,W 3–0,Aston Villa,Everton,Y,GK,90,1,0,1,100,1,0,0,0,0,0,8,16,50,29,6,37.9,35.4,12,41.7,37.1,7,2,28.6,3,21
+2021-09-25,Emiliano Martínez,Matchweek 6,Away,W 1–0,Aston Villa,Manchester Utd,Y,GK,90,4,0,4,100,1,0.6,1,0,0,1,9,33,27.3,28,1,85.7,57.3,13,69.2,50.9,9,0,0,1,15.2
+2021-10-03,Emiliano Martínez,Matchweek 7,Away,L 1–2,Aston Villa,Tottenham,Y,GK,90,7,2,6,71.4,0,1.7,0,0,0,0,3,17,17.6,32,5,50,41.3,7,14.3,27.3,1,0,0,2,18.3
+2021-10-16,Emiliano Martínez,Matchweek 8,Home,L 2–3,Aston Villa,Wolves,Y,GK,90,4,3,1,25,0,2.7,0,0,0,0,4,12,33.3,26,2,34.6,32.5,7,42.9,35.7,5,0,0,0,19
+2021-10-22,Emiliano Martínez,Matchweek 9,Away,L 1–3,Aston Villa,Arsenal,Y,GK,90,8,3,5,62.5,0,2.6,1,0,1,0,7,13,53.8,33,4,36.4,34.7,7,14.3,24.1,3,0,0,1,14
+2021-10-31,Emiliano Martínez,Matchweek 10,Home,L 1–4,Aston Villa,West Ham,Y,GK,90,8,4,4,50,0,2.5,0,0,0,0,10,17,58.8,25,3,56,45.1,7,42.9,45.3,6,0,0,1,14.8
+2021-11-05,Emiliano Martínez,Matchweek 11,Away,L 0–1,Aston Villa,Southampton,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,8,10,80,14,3,50,43.1,5,60,40,15,1,6.7,0,4
+2021-11-20,Emiliano Martínez,Matchweek 12,Home,W 2–0,Aston Villa,Brighton,Y,GK,90,2,0,2,100,1,0.2,0,0,0,0,1,9,11.1,16,1,43.8,38.6,5,40,37.6,9,0,0,0,11
+2021-11-27,Emiliano Martínez,Matchweek 13,Away,W 2–1,Aston Villa,Crystal Palace,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,5,14,35.7,19,4,57.9,44.8,6,50,46.3,12,0,0,0,10.9
+2021-12-01,Emiliano Martínez,Matchweek 14,Home,L 1–2,Aston Villa,Manchester City,Y,GK,90,7,2,5,71.4,0,0.9,0,0,0,0,7,14,50,26,6,34.6,30.5,8,62.5,44.6,9,0,0,0,8.4
+2021-12-05,Emiliano Martínez,Matchweek 15,Home,W 2–1,Aston Villa,Leicester City,Y,GK,90,4,1,3,75,0,1.9,0,0,0,0,5,20,25,25,5,60,46.6,9,55.6,45.2,5,0,0,0,11.3
+2021-12-11,Emiliano Martínez,Matchweek 16,Away,L 0–1,Aston Villa,Liverpool,Y,GK,90,4,1,3,100,0,1.4,1,1,0,0,7,28,25,33,6,60.6,45.8,10,80,55.7,10,0,0,0,11.2
+2021-12-14,Emiliano Martínez,Matchweek 17,Away,W 2–0,Aston Villa,Norwich City,Y,GK,90,3,0,3,100,1,0.1,0,0,0,0,8,14,57.1,18,5,55.6,42.2,6,66.7,47.2,8,0,0,1,13
+2021-12-26,Emiliano Martínez,Matchweek 19,Home,L 1–3,Aston Villa,Chelsea,Y,GK,90,2,3,1,50,0,2.6,2,2,0,0,10,13,76.9,26,3,34.6,31.2,7,57.1,41.6,11,1,9.1,1,14.9
+2022-03-10,Emiliano Martínez,Matchweek 20,Away,W 3–0,Aston Villa,Leeds United,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,4,6,66.7,18,5,16.7,26.6,9,33.3,34.7,9,2,22.2,1,15.7
+2022-01-02,Emiliano Martínez,Matchweek 21,Away,L 1–2,Aston Villa,Brentford,Y,GK,90,4,2,2,50,0,0.9,0,0,0,0,7,14,50,22,1,36.4,34.6,9,66.7,49.2,9,1,11.1,0,9
+2022-01-15,Emiliano Martínez,Matchweek 22,Home,D 2–2,Aston Villa,Manchester Utd,Y,GK,90,6,2,4,66.7,0,1.3,0,0,0,0,1,5,20,17,4,29.4,32.8,5,0,26.4,7,1,14.3,0,9
+2022-01-22,Emiliano Martínez,Matchweek 23,Away,W 1–0,Aston Villa,Everton,Y,GK,90,1,0,1,100,1,0.4,0,0,0,0,6,19,31.6,21,3,61.9,47.8,11,54.5,42.7,6,0,0,2,14.3
+2022-02-09,Emiliano Martínez,Matchweek 24,Home,D 3–3,Aston Villa,Leeds United,Y,GK,90,7,3,4,57.1,0,2.7,0,0,0,0,2,9,22.2,19,3,42.1,35.1,8,12.5,23.8,7,1,14.3,0,18
+2022-02-13,Emiliano Martínez,Matchweek 25,Away,L 0–1,Aston Villa,Newcastle Utd,Y,GK,90,2,1,1,50,0,0.7,0,0,0,0,2,8,25,21,5,28.6,29.8,5,40,38,5,0,0,1,26.3
+2022-02-19,Emiliano Martínez,Matchweek 26,Home,L 0–1,Aston Villa,Watford,Y,GK,90,4,1,3,75,0,1.7,0,0,0,0,3,6,50,16,8,31.3,31.4,6,16.7,25.3,5,1,20,1,14.1
+2022-02-26,Emiliano Martínez,Matchweek 27,Away,W 2–0,Aston Villa,Brighton,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,6,15,40,22,6,36.4,38,10,70,58.5,14,0,0,0,13.4
+2022-03-05,Emiliano Martínez,Matchweek 28,Home,W 4–0,Aston Villa,Southampton,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,5,15,33.3,21,1,57.1,45.9,10,30,31.1,8,0,0,0,8.5
+2022-03-13,Emiliano Martínez,Matchweek 29,Away,L 1–2,Aston Villa,West Ham,Y,GK,90,4,2,2,50,0,1.4,0,0,0,0,4,9,44.4,21,2,28.6,26.1,10,30,23.7,10,0,0,0,17
+2022-03-19,Emiliano Martínez,Matchweek 30,Home,L 0–1,Aston Villa,Arsenal,Y,GK,90,3,1,2,66.7,0,0.4,0,0,0,0,10,14,71.4,32,5,40.6,33.6,7,14.3,22.7,7,0,0,2,15.3
+2022-04-02,Emiliano Martínez,Matchweek 31,Away,L 1–2,Aston Villa,Wolves,Y,GK,90,4,2,3,50,0,0.6,0,0,0,0,2,5,40,20,4,25,30.3,5,0,26.4,6,0,0,2,18
+2022-04-09,Emiliano Martínez,Matchweek 32,Home,L 0–4,Aston Villa,Tottenham,Y,GK,90,5,4,1,20,0,3.1,0,0,0,0,0,1,0,9,2,11.1,22.4,4,0,15.5,1,0,0,1,23
+2021-08-14,Alisson,Matchweek 1,Away,W 3–0,Liverpool,Norwich City,Y,GK,90,4,0,4,100,1,1,0,0,0,0,6,9,66.7,22,4,22.7,32.6,8,50,45.8,12,0,0,2,24.3
+2021-08-21,Alisson,Matchweek 2,Home,W 2–0,Liverpool,Burnley,Y,GK,90,3,0,3,100,1,0.7,0,0,0,0,6,13,46.2,40,5,25,31.9,6,50,41.5,10,1,10,1,16.5
+2021-08-28,Alisson,Matchweek 3,Home,D 1–1,Liverpool,Chelsea,Y,GK,90,2,1,1,50,0,0.4,0,0,0,0,1,3,33.3,22,7,13.6,25,1,0,17,6,1,16.7,2,16.9
+2021-09-12,Alisson,Matchweek 4,Away,W 3–0,Liverpool,Leeds United,Y,GK,90,4,0,4,100,1,1.5,0,0,0,0,6,9,66.7,36,2,16.7,30.4,5,60,47.8,11,1,9.1,0,15
+2021-09-18,Alisson,Matchweek 5,Home,W 3–0,Liverpool,Crystal Palace,Y,GK,90,2,0,2,100,1,0.2,0,0,0,0,7,13,53.8,22,4,40.9,37.3,6,66.7,42.3,10,2,20,2,14.4
+2021-09-25,Alisson,Matchweek 6,Away,D 3–3,Liverpool,Brentford,Y,GK,90,3,3,0,0,0,1.4,0,0,0,0,10,14,71.4,23,6,39.1,37.4,7,71.4,49.7,10,1,10,2,16.9
+2021-10-03,Alisson,Matchweek 7,Home,D 2–2,Liverpool,Manchester City,Y,GK,90,3,2,1,33.3,0,1.2,0,0,0,0,7,12,58.3,44,5,18.2,25.9,10,40,38,6,0,0,0,14
+2021-10-24,Alisson,Matchweek 9,Away,W 5–0,Liverpool,Manchester Utd,Y,GK,90,3,0,3,100,1,0.4,0,0,0,0,6,11,54.5,23,3,34.8,35.7,7,42.9,38.3,9,1,11.1,2,16.8
+2021-10-30,Alisson,Matchweek 10,Home,D 2–2,Liverpool,Brighton,Y,GK,90,6,2,3,66.7,0,1.4,0,0,0,0,5,9,55.6,35,12,22.9,28.9,3,33.3,35.7,3,1,33.3,1,15.2
+2021-11-07,Alisson,Matchweek 11,Away,L 2–3,Liverpool,West Ham,Y,GK,90,3,3,1,0,0,0.6,0,0,0,0,1,2,50,23,5,8.7,25.9,3,0,21.3,8,1,12.5,1,16.8
+2021-11-20,Alisson,Matchweek 12,Home,W 4–0,Liverpool,Arsenal,Y,GK,90,3,0,3,100,1,0.8,0,0,0,0,3,6,50,68,2,7.4,22.8,3,33.3,35,5,0,0,2,27.3
+2021-11-27,Alisson,Matchweek 13,Home,W 4–0,Liverpool,Southampton,Y,GK,90,3,0,3,100,1,1.4,0,0,0,0,4,7,57.1,44,10,15.9,27.8,3,0,14,7,0,0,2,14.6
+2021-12-01,Alisson,Matchweek 14,Away,W 4–1,Liverpool,Everton,Y,GK,90,1,1,0,0,0,0,0,0,0,0,1,5,20,35,5,11.4,25.7,6,16.7,30.5,6,1,16.7,0,15.3
+2021-12-04,Alisson,Matchweek 15,Away,W 1–0,Liverpool,Wolves,Y,GK,90,1,0,1,100,1,0.5,0,0,0,0,2,5,40,22,7,18.2,26.9,2,50,36,4,1,25,3,19.8
+2021-12-11,Alisson,Matchweek 16,Home,W 1–0,Liverpool,Aston Villa,Y,GK,90,0,0,0,0,1,0,0,0,0,0,2,7,28.6,21,1,28.6,31.6,3,33.3,20.7,7,0,0,2,17.3
+2021-12-16,Alisson,Matchweek 17,Home,W 3–1,Liverpool,Newcastle Utd,Y,GK,90,2,1,1,50,0,0.6,0,0,0,0,4,8,50,28,4,25,33.2,4,25,36.3,5,1,20,1,22
+2021-12-19,Alisson,Matchweek 18,Away,D 2–2,Liverpool,Tottenham,Y,GK,90,5,2,3,60,0,3,0,0,0,0,5,12,41.7,35,8,28.6,32.3,4,50,40.8,4,1,25,2,15.6
+2022-02-23,Alisson,Matchweek 19,Home,W 6–0,Liverpool,Leeds United,Y,GK,90,2,0,2,100,1,0,0,0,0,0,4,9,44.4,59,7,15.3,28.2,2,0,12.5,6,0,0,2,17.8
+2021-12-28,Alisson,Matchweek 20,Away,L 0–1,Liverpool,Leicester City,Y,GK,90,1,1,0,0,0,0.2,0,0,0,0,6,7,85.7,18,4,27.8,32.3,2,100,63.5,4,0,0,1,20
+2022-01-16,Alisson,Matchweek 22,Home,W 3–0,Liverpool,Brentford,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,3,12,25,41,4,29.3,33.9,4,0,17.5,3,1,33.3,2,23
+2022-01-23,Alisson,Matchweek 23,Away,W 3–1,Liverpool,Crystal Palace,Y,GK,90,5,1,4,80,0,3,0,0,0,0,3,16,18.8,32,2,40.6,40.5,5,60,45.4,5,0,0,0,13
+2022-02-10,Alisson,Matchweek 24,Home,W 2–0,Liverpool,Leicester City,Y,GK,90,1,0,1,100,1,0,0,0,0,0,2,2,100,15,3,6.7,23.1,3,33.3,38.3,4,1,25,2,20.3
+2022-02-13,Alisson,Matchweek 25,Away,W 1–0,Liverpool,Burnley,Y,GK,90,5,0,5,100,1,0.7,0,0,0,0,6,9,66.7,48,8,16.7,28.8,4,25,31.3,6,0,0,4,24.3
+2022-02-19,Alisson,Matchweek 26,Home,W 3–1,Liverpool,Norwich City,Y,GK,90,1,1,0,0,0,0.2,0,0,0,0,4,7,57.1,30,5,16.7,29.6,5,40,42.2,5,1,20,1,14.2
+2022-03-16,Alisson,Matchweek 27,Away,W 2–0,Liverpool,Arsenal,Y,GK,90,2,0,2,100,1,0.4,0,0,0,0,6,8,75,29,7,20.7,29.4,5,40,33.8,7,0,0,2,19
+2022-03-05,Alisson,Matchweek 28,Home,W 1–0,Liverpool,West Ham,Y,GK,90,4,0,4,100,1,0.5,0,0,0,0,5,9,55.6,35,6,14.3,25.8,8,50,45.8,7,1,14.3,0,15.7
+2022-03-12,Alisson,Matchweek 29,Away,W 2–0,Liverpool,Brighton,Y,GK,90,3,0,3,100,1,0.8,0,0,0,0,9,18,50,29,6,37.9,37,10,70,51.3,3,0,0,1,23.2
+2022-04-02,Alisson,Matchweek 31,Home,W 2–0,Liverpool,Watford,Y,GK,90,2,0,2,100,1,0.3,0,0,0,0,6,9,66.7,32,9,28.1,28.8,2,0,27.5,4,0,0,1,15
+2022-04-10,Alisson,Matchweek 32,Away,D 2–2,Liverpool,Manchester City,Y,GK,90,4,2,2,50,0,2.1,0,0,0,0,8,20,40,42,5,26.2,31.1,10,90,59.1,10,0,0,3,19.3
+2021-09-18,Asmir Begović,Matchweek 5,Away,L 0–3,Everton,Aston Villa,Y,GK,90,3,3,1,0,0,0.9,0,0,0,0,5,16,31.3,11,2,72.7,50.5,12,66.7,49.6,5,1,20,0,15
+2022-03-17,Asmir Begović,Matchweek 20,Home,W 1–0,Everton,Newcastle Utd,Y,GK,90,6,0,6,100,1,1.3,0,0,0,0,8,31,25.8,21,1,95.2,60.9,11,100,68.3,7,0,0,0,14.5
+2021-08-14,David de Gea,Matchweek 1,Home,W 5–1,Manchester Utd,Leeds United,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,9,13,69.2,23,3,17.4,23.4,12,75,45.4,10,0,0,0,12
+2021-08-22,David de Gea,Matchweek 2,Away,D 1–1,Manchester Utd,Southampton,Y,GK,90,3,1,3,66.7,0,0.2,0,0,0,0,0,1,0,13,3,7.7,24.8,5,0,14.4,3,0,0,0,4.5
+2021-08-29,David de Gea,Matchweek 3,Away,W 1–0,Manchester Utd,Wolves,Y,GK,90,5,0,5,100,1,1.1,0,0,0,0,4,7,57.1,12,3,33.3,35.3,8,37.5,35.6,11,1,9.1,1,28
+2021-09-11,David de Gea,Matchweek 4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,GK,90,4,1,3,75,0,1.5,0,0,0,0,2,2,100,6,1,16.7,28.3,7,14.3,24.9,3,0,0,0,10
+2021-09-19,David de Gea,Matchweek 5,Away,W 2–1,Manchester Utd,West Ham,Y,GK,90,3,1,2,66.7,0,1.4,1,0,1,0,2,2,100,15,6,13.3,28.3,7,0,24.6,10,1,10,0,8.8
+2021-09-25,David de Gea,Matchweek 6,Home,L 0–1,Manchester Utd,Aston Villa,Y,GK,90,3,1,2,66.7,0,0.6,0,0,0,0,3,5,60,18,2,27.8,33.9,5,0,24,15,1,6.7,0,13.5
+2021-10-02,David de Gea,Matchweek 7,Home,D 1–1,Manchester Utd,Everton,Y,GK,90,2,1,1,50,0,0.8,0,0,0,0,2,3,66.7,12,2,8.3,28.3,7,28.6,33.9,8,0,0,0,14.8
+2021-10-16,David de Gea,Matchweek 8,Away,L 2–4,Manchester Utd,Leicester City,Y,GK,90,11,4,6,63.6,0,4.5,0,0,0,0,5,15,33.3,20,6,40,34.1,12,58.3,45.9,3,0,0,0,17.3
+2021-10-24,David de Gea,Matchweek 9,Home,L 0–5,Manchester Utd,Liverpool,Y,GK,90,8,5,3,37.5,0,4.5,0,0,0,0,3,6,50,13,3,23.1,31.8,8,37.5,34,4,1,25,1,12
+2021-10-30,David de Gea,Matchweek 10,Away,W 3–0,Manchester Utd,Tottenham,Y,GK,90,0,0,0,0,1,0,0,0,0,0,4,11,36.4,20,2,35,34,6,66.7,49,8,0,0,0,16
+2021-11-06,David de Gea,Matchweek 11,Home,L 0–2,Manchester Utd,Manchester City,Y,GK,90,5,2,4,60,0,2.2,0,0,0,0,3,14,21.4,9,2,55.6,42.6,11,81.8,54,8,0,0,0,13
+2021-11-20,David de Gea,Matchweek 12,Away,L 1–4,Manchester Utd,Watford,Y,GK,90,7,4,3,42.9,0,3.5,2,0,2,0,2,11,18.2,16,2,31.3,33.7,11,54.5,48,8,0,0,0,12.5
+2021-11-28,David de Gea,Matchweek 13,Away,D 1–1,Manchester Utd,Chelsea,Y,GK,90,5,1,4,100,0,2.4,1,1,0,0,4,17,23.5,14,2,57.1,42.1,14,64.3,50.6,12,0,0,1,23
+2021-12-02,David de Gea,Matchweek 14,Home,W 3–2,Manchester Utd,Arsenal,Y,GK,90,7,2,5,71.4,0,2.8,0,0,0,0,4,10,40,14,2,42.9,40.8,7,57.1,45.1,8,0,0,0,14
+2021-12-05,David de Gea,Matchweek 15,Home,W 1–0,Manchester Utd,Crystal Palace,Y,GK,90,2,0,2,100,1,0.8,0,0,0,0,5,6,83.3,15,4,33.3,33.2,4,25,36.3,5,1,20,0,9
+2021-12-11,David de Gea,Matchweek 16,Away,W 1–0,Manchester Utd,Norwich City,Y,GK,90,5,0,5,100,1,2,0,0,0,0,5,9,55.6,18,7,33.3,30.3,6,50,41,11,1,9.1,0,15.3
+2022-01-19,David de Gea,Matchweek 17,Away,W 3–1,Manchester Utd,Brentford,Y,GK,90,9,1,8,88.9,0,3,0,0,0,0,8,22,36.4,22,4,81.8,49.9,4,100,54.8,13,0,0,0,11.8
+2022-02-15,David de Gea,Matchweek 18,Home,W 2–0,Manchester Utd,Brighton,Y,GK,90,3,0,3,100,1,0.5,0,0,0,0,1,8,12.5,18,3,27.8,32.9,10,30,33.7,12,0,0,1,15.5
+2021-12-27,David de Gea,Matchweek 19,Away,D 1–1,Manchester Utd,Newcastle Utd,Y,GK,90,8,1,7,87.5,0,1.9,0,0,0,0,2,8,25,12,3,16.7,26.8,7,85.7,58.7,7,1,14.3,0,0
+2021-12-30,David de Gea,Matchweek 20,Home,W 3–1,Manchester Utd,Burnley,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,6,26,23.1,21,3,85.7,54.5,8,100,71.3,11,0,0,0,16.6
+2022-01-03,David de Gea,Matchweek 21,Home,L 0–1,Manchester Utd,Wolves,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,9,16,56.3,19,5,47.4,42.4,12,58.3,48.4,10,0,0,1,14
+2022-01-15,David de Gea,Matchweek 22,Away,D 2–2,Manchester Utd,Aston Villa,Y,GK,90,9,2,7,77.8,0,2.9,0,0,0,0,4,15,26.7,20,4,55,45.1,7,57.1,41.6,12,0,0,0,11.2
+2022-01-22,David de Gea,Matchweek 23,Home,W 1–0,Manchester Utd,West Ham,Y,GK,90,1,0,1,100,1,0,0,0,0,0,1,6,16.7,17,3,23.5,30.6,7,28.6,34.4,6,0,0,0,12.5
+2022-02-08,David de Gea,Matchweek 24,Away,D 1–1,Manchester Utd,Burnley,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,5,13,38.5,16,4,50,44.1,6,83.3,59.3,6,0,0,0,13
+2022-02-12,David de Gea,Matchweek 25,Home,D 1–1,Manchester Utd,Southampton,Y,GK,90,4,1,3,75,0,0.6,0,0,0,0,2,6,33.3,19,2,21.1,33.8,9,22.2,25.6,3,0,0,1,15.5
+2022-02-20,David de Gea,Matchweek 26,Away,W 4–2,Manchester Utd,Leeds United,Y,GK,90,6,2,4,66.7,0,1.5,0,0,0,0,2,13,15.4,18,4,44.4,35.3,7,71.4,53.1,5,0,0,0,14.3
+2022-02-26,David de Gea,Matchweek 27,Home,D 0–0,Manchester Utd,Watford,Y,GK,90,2,0,2,100,1,0.6,0,0,0,0,1,3,33.3,9,1,11.1,32.7,5,40,45.8,1,0,0,0,0
+2022-03-06,David de Gea,Matchweek 28,Away,L 1–4,Manchester Utd,Manchester City,Y,GK,90,10,4,6,60,0,3.3,0,0,0,0,6,12,50,16,2,37.5,28.9,11,54.5,36.7,6,0,0,0,15
+2022-03-12,David de Gea,Matchweek 29,Home,W 3–2,Manchester Utd,Tottenham,Y,GK,90,1,2,1,0,0,0.9,1,1,0,0,6,19,31.6,14,3,78.6,46.4,10,80,54.2,12,0,0,0,12
+2022-04-02,David de Gea,Matchweek 31,Home,D 1–1,Manchester Utd,Leicester City,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,3,10,30,21,1,33.3,34,10,30,31.8,5,0,0,0,13
+2022-04-09,David de Gea,Matchweek 32,Away,L 0–1,Manchester Utd,Everton,Y,GK,90,3,1,2,66.7,0,1,0,0,0,0,4,7,57.1,22,7,27.3,27.7,7,14.3,21.3,4,0,0,0,14.5
+2021-08-15,Hugo Lloris,Matchweek 1,Home,W 1–0,Tottenham,Manchester City,Y*,GK,90,4,0,4,100,1,0.3,0,0,0,0,13,23,56.5,17,1,88.2,51.9,10,80,54.7,11,0,0,0,14.5
+2021-08-22,Hugo Lloris,Matchweek 2,Away,W 1–0,Tottenham,Wolves,Y*,GK,90,6,0,6,100,1,1.1,0,0,0,0,8,18,44.4,13,7,46.2,39.7,16,75,56,18,0,0,0,13.5
+2021-08-29,Hugo Lloris,Matchweek 3,Home,W 1–0,Tottenham,Watford,Y*,GK,90,1,0,1,100,1,0,0,0,0,0,3,8,37.5,12,2,58.3,42.1,4,25,29,7,0,0,1,10.7
+2021-09-11,Hugo Lloris,Matchweek 4,Away,L 0–3,Tottenham,Crystal Palace,Y*,GK,90,3,3,1,33.3,0,2.6,1,1,0,0,8,24,33.3,19,1,78.9,55.5,13,69.2,47.7,15,0,0,0,7.2
+2021-09-19,Hugo Lloris,Matchweek 5,Home,L 0–3,Tottenham,Chelsea,Y*,GK,90,9,3,6,66.7,0,3.3,0,0,0,0,3,10,30,20,2,45,38,6,16.7,22.2,9,0,0,0,6
+2021-09-26,Hugo Lloris,Matchweek 6,Away,L 1–3,Tottenham,Arsenal,Y*,GK,90,7,3,4,57.1,0,2.6,0,0,0,0,9,15,60,21,2,57.1,38.7,7,42.9,34.7,3,0,0,0,16.5
+2021-10-03,Hugo Lloris,Matchweek 7,Home,W 2–1,Tottenham,Aston Villa,Y*,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,7,16,43.8,18,4,55.6,47.1,10,60,42.7,15,0,0,2,14.3
+2021-10-17,Hugo Lloris,Matchweek 8,Away,W 3–2,Tottenham,Newcastle Utd,Y*,GK,90,1,2,0,-100,0,0.7,0,0,0,0,4,8,50,18,7,11.1,23.8,11,54.5,39,7,2,28.6,0,16.8
+2021-10-24,Hugo Lloris,Matchweek 9,Away,L 0–1,Tottenham,West Ham,Y*,GK,90,4,1,3,75,0,1.5,0,0,0,0,5,13,38.5,15,3,46.7,38.3,7,85.7,52.1,10,1,10,0,18.2
+2021-10-30,Hugo Lloris,Matchweek 10,Home,L 0–3,Tottenham,Manchester Utd,Y*,GK,90,4,3,1,25,0,2.1,0,0,0,0,1,5,20,19,2,26.3,27.2,4,0,26.8,4,0,0,1,21.7
+2021-11-07,Hugo Lloris,Matchweek 11,Away,D 0–0,Tottenham,Everton,Y*,GK,90,2,0,2,100,1,0.1,0,0,0,0,4,6,66.7,21,6,19,26.9,9,22.2,28.9,5,0,0,1,14.8
+2021-11-21,Hugo Lloris,Matchweek 12,Home,W 2–1,Tottenham,Leeds United,Y*,GK,90,7,1,6,85.7,0,1,0,0,0,0,4,8,50,18,4,33.3,32.4,7,28.6,19.7,6,0,0,0,12.8
+2022-02-23,Hugo Lloris,Matchweek 13,Away,L 0–1,Tottenham,Burnley,Y*,GK,90,4,1,3,75,0,0.8,0,0,0,0,2,6,33.3,28,9,21.4,28.1,6,0,23.5,14,0,0,0,12.6
+2021-12-02,Hugo Lloris,Matchweek 14,Home,W 2–0,Tottenham,Brentford,Y*,GK,90,2,0,2,100,1,0.3,0,0,0,0,4,11,36.4,20,4,45,38.4,5,40,39,15,2,13.3,1,13.7
+2021-12-05,Hugo Lloris,Matchweek 15,Home,W 3–0,Tottenham,Norwich City,Y*,GK,90,1,0,1,100,1,0.3,0,0,0,0,5,7,71.4,19,3,21.1,31.8,9,33.3,27,11,1,9.1,3,18.9
+2022-03-16,Hugo Lloris,Matchweek 16,Away,W 2–0,Tottenham,Brighton,Y*,GK,90,0,0,0,0,1,0,0,0,0,0,2,4,50,22,5,18.2,26.9,4,0,16.3,11,1,9.1,0,14
+2022-01-19,Hugo Lloris,Matchweek 17,Away,W 3–2,Tottenham,Leicester City,Y*,GK,90,4,2,2,50,0,1.7,0,0,0,0,2,3,66.7,10,1,30,32,5,0,17.4,6,0,0,0,11
+2021-12-19,Hugo Lloris,Matchweek 18,Home,D 2–2,Tottenham,Liverpool,Y*,GK,90,6,2,4,66.7,0,2.7,0,0,0,0,7,13,53.8,18,4,44.4,36.4,10,50,40.8,11,1,9.1,2,15.6
+2021-12-26,Hugo Lloris,Matchweek 19,Home,W 3–0,Tottenham,Crystal Palace,Y*,GK,90,0,0,0,0,1,0,0,0,0,0,3,6,50,7,1,57.1,39.1,5,40,32.4,5,1,20,0,0
+2021-12-28,Hugo Lloris,Matchweek 20,Away,D 1–1,Tottenham,Southampton,Y*,GK,90,2,1,1,50,0,0.7,0,0,0,0,5,8,62.5,19,3,42.1,37.8,1,0,8,5,0,0,0,13.5
+2022-01-01,Hugo Lloris,Matchweek 21,Away,W 1–0,Tottenham,Watford,Y*,GK,90,4,0,4,100,1,0.4,0,0,0,0,2,2,100,15,5,13.3,24.8,5,0,19,3,0,0,2,20.8
+2022-01-23,Hugo Lloris,Matchweek 23,Away,L 0–2,Tottenham,Chelsea,Y*,GK,90,7,2,5,71.4,0,1.7,0,0,0,0,9,13,69.2,15,3,46.7,32.4,8,75,43,17,1,5.9,1,18
+2022-02-09,Hugo Lloris,Matchweek 24,Home,L 2–3,Tottenham,Southampton,Y*,GK,90,9,3,6,66.7,0,3.2,0,0,0,0,6,12,50,14,2,57.1,46.1,7,57.1,40.1,12,1,8.3,1,14.2
+2022-02-13,Hugo Lloris,Matchweek 25,Home,L 0–2,Tottenham,Wolves,Y*,GK,90,7,2,5,71.4,0,1.9,0,0,0,0,1,2,50,13,2,15.4,25.6,1,0,26,2,1,50,2,30.3
+2022-02-19,Hugo Lloris,Matchweek 26,Away,W 3–2,Tottenham,Manchester City,Y*,GK,90,3,2,2,66.7,0,2.3,1,1,0,0,7,14,50,22,10,40.9,34.2,14,35.7,28.2,24,2,8.3,0,7.7
+2022-02-26,Hugo Lloris,Matchweek 27,Away,W 4–0,Tottenham,Leeds United,Y*,GK,90,2,0,2,100,1,0.5,0,0,0,0,3,5,60,18,7,11.1,26,12,25,28.2,12,1,8.3,3,25
+2022-03-07,Hugo Lloris,Matchweek 28,Home,W 5–0,Tottenham,Everton,Y*,GK,90,0,0,0,0,1,0,0,0,0,0,2,4,50,20,4,20,28.3,5,0,15.4,5,2,40,0,10
+2022-03-12,Hugo Lloris,Matchweek 29,Away,L 2–3,Tottenham,Manchester Utd,Y*,GK,90,6,3,3,50,0,1.7,0,0,0,0,0,4,0,20,4,20,26.9,4,0,17.5,1,0,0,0,12.2
+2022-03-20,Hugo Lloris,Matchweek 30,Home,W 3–1,Tottenham,West Ham,Y*,GK,90,1,1,0,0,0,0.4,0,0,0,0,2,6,33.3,14,3,28.6,29.2,5,40,30.6,7,0,0,0,10.3
+2022-04-03,Hugo Lloris,Matchweek 31,Home,W 5–1,Tottenham,Newcastle Utd,Y*,GK,90,1,1,0,0,0,0.4,0,0,0,0,3,7,42.9,16,3,43.8,34.4,5,0,10.2,9,0,0,0,8
+2022-04-09,Hugo Lloris,Matchweek 32,Away,W 4–0,Tottenham,Aston Villa,Y*,GK,90,8,0,8,100,1,0.6,0,0,0,0,2,5,40,18,7,27.8,32,9,0,18.3,11,2,18.2,1,10.8
+2021-08-14,José Sá,Matchweek 1,Away,L 0–1,Wolves,Leicester City,Y,GK,90,5,1,4,80,0,1.5,0,0,0,0,2,6,33.3,17,5,29.4,34.9,3,33.3,34.7,3,0,0,1,12
+2021-08-22,José Sá,Matchweek 2,Home,L 0–1,Wolves,Tottenham,Y,GK,90,5,1,5,100,0,1.9,1,1,0,0,2,3,66.7,14,4,14.3,28,4,25,25.8,2,0,0,1,17.7
+2021-08-29,José Sá,Matchweek 3,Home,L 0–1,Wolves,Manchester Utd,Y,GK,90,3,1,2,66.7,0,0.3,0,0,0,0,4,8,50,17,6,35.3,35.8,4,50,45,7,2,28.6,1,19
+2021-09-11,José Sá,Matchweek 4,Away,W 2–0,Wolves,Watford,Y,GK,90,2,0,2,100,1,0.4,0,0,0,0,3,5,60,10,4,50,40.9,6,0,21.7,6,1,16.7,1,12.7
+2021-09-18,José Sá,Matchweek 5,Home,L 0–2,Wolves,Brentford,Y,GK,90,2,2,1,50,0,2.3,1,1,0,0,6,14,42.9,23,3,43.5,41.6,9,44.4,38,4,1,25,4,37.7
+2021-09-26,José Sá,Matchweek 6,Away,W 1–0,Wolves,Southampton,Y,GK,90,6,0,6,100,1,0.4,0,0,0,0,12,24,50,30,7,63.3,52.7,6,83.3,60.3,12,1,8.3,0,12.5
+2021-10-02,José Sá,Matchweek 7,Home,W 2–1,Wolves,Newcastle Utd,Y,GK,90,2,1,1,50,0,0.7,0,0,0,0,6,15,40,18,4,61.1,43.7,4,100,67.5,10,0,0,0,12.1
+2021-10-16,José Sá,Matchweek 8,Away,W 3–2,Wolves,Aston Villa,Y,GK,90,5,2,3,60,0,1.7,0,0,0,0,2,14,14.3,21,9,33.3,37.1,13,53.8,45.5,12,1,8.3,1,15.3
+2021-10-23,José Sá,Matchweek 9,Away,D 1–1,Wolves,Leeds United,Y,GK,90,3,1,3,100,0,1,1,1,0,0,5,18,27.8,18,8,50,48.6,13,69.2,50.9,10,0,0,1,12.3
+2021-11-01,José Sá,Matchweek 10,Home,W 2–1,Wolves,Everton,Y,GK,90,5,1,4,80,0,1.4,0,0,0,0,3,14,21.4,30,9,40,41.2,5,40,37.8,7,1,14.3,0,11.8
+2021-11-06,José Sá,Matchweek 11,Away,L 0–2,Wolves,Crystal Palace,Y,GK,90,6,2,4,66.7,0,1.9,0,0,0,0,4,14,28.6,19,7,42.1,39.5,7,85.7,68.7,7,0,0,0,13.2
+2021-11-20,José Sá,Matchweek 12,Home,W 1–0,Wolves,West Ham,Y,GK,90,2,0,2,100,1,0.3,0,0,0,0,5,11,45.5,20,7,30,38.3,7,71.4,52.6,10,2,20,0,15.6
+2021-11-27,José Sá,Matchweek 13,Away,D 0–0,Wolves,Norwich City,Y,GK,90,4,0,4,100,1,1.2,0,0,0,0,3,11,27.3,23,7,34.8,34,8,37.5,36,12,1,8.3,2,13.4
+2021-12-01,José Sá,Matchweek 14,Home,D 0–0,Wolves,Burnley,Y,GK,90,1,0,1,100,1,0.3,0,0,0,0,5,16,31.3,22,1,63.6,45.3,5,40,36.8,15,2,13.3,1,18
+2021-12-04,José Sá,Matchweek 15,Home,L 0–1,Wolves,Liverpool,Y,GK,90,4,1,3,75,0,2.6,0,0,0,0,4,21,19,26,5,61.5,50.7,8,62.5,52.6,15,1,6.7,2,14.7
+2021-12-11,José Sá,Matchweek 16,Away,L 0–1,Wolves,Manchester City,Y,GK,90,8,1,8,100,0,2.1,1,1,0,0,3,18,16.7,24,7,58.3,43.3,12,33.3,33.8,10,0,0,0,6.3
+2021-12-15,José Sá,Matchweek 17,Away,W 1–0,Wolves,Brighton,Y,GK,90,2,0,2,100,1,0.2,0,0,0,0,2,12,16.7,19,3,42.1,38.8,7,57.1,38.6,9,0,0,0,11.5
+2021-12-19,José Sá,Matchweek 18,Home,D 0–0,Wolves,Chelsea,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,5,17,29.4,28,5,50,40.3,7,42.9,41.9,12,3,25,0,13.3
+2022-03-10,José Sá,Matchweek 19,Home,W 4–0,Wolves,Watford,Y,GK,90,0,0,0,0,1,0,0,0,0,0,1,2,50,24,1,8.3,21.2,6,0,13.8,6,1,16.7,0,13
+2022-02-24,José Sá,Matchweek 20,Away,L 1–2,Wolves,Arsenal,Y,GK,90,5,2,4,60,0,1.9,0,0,0,0,4,19,21.1,24,8,41.7,43.5,14,64.3,47,8,0,0,0,14
+2022-01-03,José Sá,Matchweek 21,Away,W 1–0,Wolves,Manchester Utd,Y,GK,90,2,0,2,100,1,0.4,0,0,0,0,5,10,50,20,9,40,36.1,4,50,40.5,13,2,15.4,2,14.4
+2022-01-15,José Sá,Matchweek 22,Home,W 3–1,Wolves,Southampton,Y,GK,90,10,1,9,90,0,1.1,0,0,0,0,6,18,33.3,23,7,60.9,46,5,80,59.6,10,3,30,2,17
+2022-01-22,José Sá,Matchweek 23,Away,W 2–1,Wolves,Brentford,Y,GK,90,1,1,0,0,0,0.5,0,0,0,0,3,16,18.8,21,6,57.1,45.2,6,66.7,51.2,8,0,0,1,14.6
+2022-02-10,José Sá,Matchweek 24,Home,L 0–1,Wolves,Arsenal,Y,GK,90,2,1,1,50,0,1,0,0,0,0,3,7,42.9,19,2,31.6,34.7,4,25,35.3,6,0,0,3,24
+2022-02-13,José Sá,Matchweek 25,Away,W 2–0,Wolves,Tottenham,Y,GK,90,7,0,7,100,1,1.1,0,0,0,0,6,22,27.3,25,2,68,46.5,7,71.4,53.1,9,0,0,3,14.2
+2022-02-20,José Sá,Matchweek 26,Home,W 2–1,Wolves,Leicester City,Y,GK,90,7,1,6,85.7,0,1.8,0,0,0,0,5,10,50,20,8,30,37,8,50,34.5,18,3,16.7,0,8.3
+2022-02-27,José Sá,Matchweek 27,Away,L 0–1,Wolves,West Ham,Y,GK,90,4,1,3,75,0,1.4,0,0,0,0,4,15,26.7,32,3,37.5,35.1,12,25,29.2,10,0,0,1,15.8
+2022-03-05,José Sá,Matchweek 28,Home,L 0–2,Wolves,Crystal Palace,Y,GK,90,7,2,6,85.7,0,3,1,1,0,0,4,7,57.1,25,4,28,31.9,3,0,12.7,10,1,10,2,32.3
+2022-03-13,José Sá,Matchweek 29,Away,W 1–0,Wolves,Everton,Y,GK,90,2,0,2,100,1,0.3,0,0,0,0,10,16,62.5,26,6,42.3,36.7,7,71.4,52.6,7,1,14.3,4,20.4
+2022-03-18,José Sá,Matchweek 30,Home,L 2–3,Wolves,Leeds United,Y,GK,90,5,3,2,40,0,2.2,0,0,0,0,3,15,20,28,3,35.7,34,8,62.5,51.5,6,1,16.7,2,19.6
+2022-04-02,José Sá,Matchweek 31,Home,W 2–1,Wolves,Aston Villa,Y,GK,90,4,1,4,100,0,1.6,1,1,0,0,4,9,44.4,25,4,28,38.2,6,33.3,32,8,2,25,0,13.3
+2022-04-08,José Sá,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,Y,GK,90,3,1,3,100,0,1,1,1,0,0,4,13,30.8,21,5,42.9,39.9,8,50,42.6,8,1,12.5,1,15.9
+2021-08-15,Łukasz Fabiański,Matchweek 1,Away,W 4–2,West Ham,Newcastle Utd,Y,GK,90,3,2,1,33.3,0,1.5,0,0,0,0,8,20,40,20,2,65,46.7,11,63.6,49.8,17,1,5.9,0,9
+2021-08-23,Łukasz Fabiański,Matchweek 2,Home,W 4–1,West Ham,Leicester City,Y,GK,90,1,1,0,0,0,0.4,0,0,0,0,9,11,81.8,15,6,53.3,39.9,3,100,51.3,1,0,0,0,14.6
+2021-08-28,Łukasz Fabiański,Matchweek 3,Home,D 2–2,West Ham,Crystal Palace,Y,GK,90,2,2,0,0,0,1.1,0,0,0,0,2,9,22.2,10,1,50,46.6,6,66.7,43.8,6,1,16.7,0,13
+2021-09-11,Łukasz Fabiański,Matchweek 4,Away,D 0–0,West Ham,Southampton,Y,GK,90,2,0,2,100,1,0.4,0,0,0,0,5,8,62.5,18,4,33.3,32.7,7,28.6,44.1,6,0,0,1,12.5
+2021-09-19,Łukasz Fabiański,Matchweek 5,Home,L 1–2,West Ham,Manchester Utd,Y,GK,90,10,2,7,80,0,2.7,0,0,0,0,4,13,30.8,15,4,60,47.7,10,40,35.2,14,1,7.1,0,5
+2021-09-25,Łukasz Fabiański,Matchweek 6,Away,W 2–1,West Ham,Leeds United,Y,GK,90,5,1,4,80,0,1.4,0,0,0,0,5,12,41.7,23,7,30.4,34.5,6,83.3,55.8,7,0,0,0,12.7
+2021-10-03,Łukasz Fabiański,Matchweek 7,Home,L 1–2,West Ham,Brentford,Y,GK,90,6,2,4,66.7,0,1.4,0,0,0,0,6,17,35.3,16,4,68.8,50.6,6,100,72.7,5,1,20,0,20
+2021-10-17,Łukasz Fabiański,Matchweek 8,Away,W 1–0,West Ham,Everton,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,6,13,46.2,15,4,20,35.4,13,76.9,62.5,16,0,0,0,4
+2021-10-24,Łukasz Fabiański,Matchweek 9,Home,W 1–0,West Ham,Tottenham,Y,GK,90,4,0,4,100,1,0.2,0,0,0,0,8,15,53.3,28,12,46.4,37.9,3,66.7,46.3,8,2,25,0,11.1
+2021-10-31,Łukasz Fabiański,Matchweek 10,Away,W 4–1,West Ham,Aston Villa,Y,GK,90,3,1,1,66.7,0,0.9,0,0,0,0,6,12,50,18,4,33.3,36.9,7,85.7,54.4,10,0,0,0,11.3
+2021-11-07,Łukasz Fabiański,Matchweek 11,Home,W 3–2,West Ham,Liverpool,Y,GK,90,5,2,3,60,0,1.6,0,0,0,0,8,22,36.4,17,3,70.6,47.8,10,100,64.2,14,0,0,0,11.2
+2021-11-20,Łukasz Fabiański,Matchweek 12,Away,L 0–1,West Ham,Wolves,Y,GK,90,5,1,4,80,0,1.4,0,0,0,0,3,8,37.5,16,5,12.5,24.8,11,54.5,56.5,9,0,0,0,10
+2021-11-28,Łukasz Fabiański,Matchweek 13,Away,L 1–2,West Ham,Manchester City,Y,GK,90,8,2,6,75,0,3.6,0,0,0,0,9,23,39.1,22,0,86.4,52.4,9,44.4,34.6,7,0,0,0,6
+2021-12-01,Łukasz Fabiański,Matchweek 14,Home,D 1–1,West Ham,Brighton,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,7,13,53.8,7,1,85.7,58.3,8,87.5,59.1,10,0,0,0,7
+2021-12-04,Łukasz Fabiański,Matchweek 15,Home,W 3–2,West Ham,Chelsea,Y,GK,90,7,2,5,71.4,0,1.4,0,0,0,0,7,23,30.4,27,7,70.4,50.6,5,80,63,8,0,0,1,10.6
+2021-12-12,Łukasz Fabiański,Matchweek 16,Away,D 0–0,West Ham,Burnley,Y,GK,90,1,0,1,100,1,0,0,0,0,0,8,26,30.8,20,2,85,57.1,10,90,62.4,7,0,0,0,17.3
+2021-12-15,Łukasz Fabiański,Matchweek 17,Away,L 0–2,West Ham,Arsenal,Y,GK,90,7,2,4,71.4,0,3.5,1,0,1,0,10,20,50,27,3,63,48.9,5,60,48.8,7,0,0,0,10
+2022-01-12,Łukasz Fabiański,Matchweek 18,Home,W 2–0,West Ham,Norwich City,Y,GK,90,3,0,2,100,1,0.5,0,0,0,0,5,16,31.3,15,2,80,53.1,5,80,55.8,10,0,0,0,9.3
+2021-12-26,Łukasz Fabiański,Matchweek 19,Home,L 2–3,West Ham,Southampton,Y,GK,90,5,3,3,60,0,2.1,1,1,0,0,1,5,20,12,2,41.7,42,2,0,29,3,0,0,1,22
+2021-12-28,Łukasz Fabiański,Matchweek 20,Away,W 4–1,West Ham,Watford,Y,GK,90,5,1,4,80,0,2.2,0,0,0,0,6,21,28.6,13,1,69.2,51.8,12,100,67.9,7,0,0,0,13.5
+2022-01-01,Łukasz Fabiański,Matchweek 21,Away,W 3–2,West Ham,Crystal Palace,Y,GK,90,6,2,4,66.7,0,0.8,0,0,0,0,7,25,28,23,4,69.6,56.2,10,90,63,22,1,4.5,1,13.5
+2022-01-16,Łukasz Fabiański,Matchweek 22,Home,L 2–3,West Ham,Leeds United,Y,GK,90,5,3,2,40,0,2.4,0,0,0,0,11,18,61.1,18,5,55.6,43.8,9,88.9,63.2,7,0,0,0,13.3
+2022-02-08,Łukasz Fabiański,Matchweek 24,Home,W 1–0,West Ham,Watford,Y,GK,90,1,0,1,100,1,0.5,0,0,0,0,8,17,47.1,25,2,48,42.8,9,55.6,39.8,8,2,25,1,17.5
+2022-02-13,Łukasz Fabiański,Matchweek 25,Away,D 2–2,West Ham,Leicester City,Y,GK,90,1,2,0,0,0,1.5,1,1,0,0,12,20,60,17,4,58.8,44.5,10,100,63.1,5,0,0,0,13.2
+2022-02-19,Łukasz Fabiański,Matchweek 26,Home,D 1–1,West Ham,Newcastle Utd,Y,GK,90,3,1,2,66.7,0,0.7,0,0,0,0,6,17,35.3,16,3,68.8,50.3,6,100,68.2,13,0,0,1,17.3
+2022-02-27,Łukasz Fabiański,Matchweek 27,Home,W 1–0,West Ham,Wolves,Y,GK,90,1,0,1,100,1,0,0,0,0,0,7,16,43.8,25,2,60,46.4,5,20,22,8,1,12.5,0,9
+2022-03-05,Łukasz Fabiański,Matchweek 28,Away,L 0–1,West Ham,Liverpool,Y,GK,90,5,1,4,80,0,1.6,0,0,0,0,11,28,39.3,27,2,81.5,49.4,8,75,52,9,1,11.1,0,13.5
+2022-03-13,Łukasz Fabiański,Matchweek 29,Home,W 2–1,West Ham,Aston Villa,Y,GK,90,6,1,4,83.3,0,2.6,0,0,0,0,8,11,72.7,17,5,47.1,37.5,4,75,54.3,8,0,0,0,10.3
+2022-03-20,Łukasz Fabiański,Matchweek 30,Away,L 1–3,West Ham,Tottenham,Y,GK,90,4,3,2,25,0,1.6,0,0,0,0,6,21,28.6,19,3,78.9,49.7,8,75,50.6,8,0,0,0,14.8
+2022-04-03,Łukasz Fabiański,Matchweek 31,Home,W 2–1,West Ham,Everton,Y,GK,90,2,1,1,50,0,0.4,0,0,0,0,3,9,33.3,18,6,38.9,35.3,6,33.3,39,9,0,0,0,10.8
+2022-04-10,Łukasz Fabiański,Matchweek 32,Away,L 0–2,West Ham,Brentford,Y,GK,90,7,2,5,71.4,0,1.3,0,0,0,0,7,17,41.2,29,5,48.3,40,5,60,46.4,13,0,0,0,9.3
+2022-01-19,Jonas Lössl,Matchweek 17,Home,L 1–3,Brentford,Manchester Utd,Y,GK,90,5,3,2,40,0,2.7,0,0,0,0,7,16,43.8,18,3,72.2,43.2,8,37.5,33.8,12,0,0,2,21.7
+2022-01-22,Jonas Lössl,Matchweek 23,Home,L 1–2,Brentford,Wolves,Y,GK,90,2,2,0,0,0,0.5,0,0,0,0,6,14,42.9,31,3,41.9,36.5,5,20,34.8,2,0,0,2,17.8
+2021-08-13,David Raya,Matchweek 1,Home,W 2–0,Brentford,Arsenal,Y,GK,90,4,0,4,100,1,0.4,0,0,0,0,10,37,27,35,5,60,45.6,16,100,68.8,10,0,0,0,12.1
+2021-08-21,David Raya,Matchweek 2,Away,D 0–0,Brentford,Crystal Palace,Y,GK,90,2,0,2,100,1,0.2,0,0,0,0,4,22,18.2,39,6,43.6,37.8,6,83.3,62,7,1,14.3,1,15.1
+2021-08-28,David Raya,Matchweek 3,Away,D 1–1,Brentford,Aston Villa,Y,GK,90,5,1,4,80,0,1.7,0,0,0,0,9,20,45,55,6,34.5,34.5,3,33.3,28,16,3,18.8,3,20.6
+2021-09-11,David Raya,Matchweek 4,Home,L 0–1,Brentford,Brighton,Y,GK,90,2,1,1,50,0,0.6,0,0,0,0,13,20,65,32,4,46.9,39.8,6,83.3,56.8,5,1,20,4,19.3
+2021-09-18,David Raya,Matchweek 5,Away,W 2–0,Brentford,Wolves,Y,GK,90,0,0,0,0,1,0,0,0,0,0,12,27,44.4,35,4,60,46.2,11,54.5,48.2,7,1,14.3,0,10.7
+2021-09-25,David Raya,Matchweek 6,Home,D 3–3,Brentford,Liverpool,Y,GK,90,4,3,1,25,0,2.4,0,0,0,0,10,34,29.4,33,5,72.7,56.2,10,100,65.9,11,1,9.1,2,14.1
+2021-10-03,David Raya,Matchweek 7,Away,W 2–1,Brentford,West Ham,Y,GK,90,5,1,4,80,0,1,0,0,0,0,5,26,19.2,24,5,62.5,48.4,15,73.3,52.9,10,1,10,0,15.8
+2021-10-16,David Raya,Matchweek 8,Home,L 0–1,Brentford,Chelsea,Y,GK,90,1,1,0,0,0,0.5,0,0,0,0,12,22,54.5,47,8,44.7,40.8,4,25,20.3,5,1,20,1,15
+2021-10-24,David Raya,Matchweek 9,Home,L 1–2,Brentford,Leicester City,Y,GK,90,6,2,4,66.7,0,1.4,0,0,0,0,8,13,61.5,36,2,36.1,34.6,6,0,17.5,3,0,0,2,22.5
+2022-02-09,David Raya,Matchweek 24,Away,L 0–2,Brentford,Manchester City,Y,GK,90,6,2,5,83.3,0,1.8,1,1,0,0,12,35,34.3,36,3,75,50.8,8,100,68.9,9,0,0,2,13
+2022-02-12,David Raya,Matchweek 25,Home,D 0–0,Brentford,Crystal Palace,Y,GK,90,3,0,3,100,1,0.2,0,0,0,0,16,31,51.6,40,8,70,45.2,3,100,67.7,8,0,0,2,18.7
+2022-02-19,David Raya,Matchweek 26,Away,L 1–2,Brentford,Arsenal,Y,GK,90,7,2,5,71.4,0,2.9,0,0,0,0,12,25,48,33,5,54.5,40,8,87.5,54.4,18,1,5.6,1,14
+2022-02-26,David Raya,Matchweek 27,Home,L 0–2,Brentford,Newcastle Utd,Y,GK,90,11,2,9,81.8,0,2.7,0,0,0,0,21,44,47.7,33,2,90.9,55.9,15,93.3,65.1,13,0,0,0,12.5
+2022-03-05,David Raya,Matchweek 28,Away,W 3–1,Brentford,Norwich City,Y,GK,90,7,1,6,85.7,0,1.2,0,0,0,0,8,16,50,30,4,43.3,40.9,5,60,45.4,14,1,7.1,0,13.5
+2022-03-12,David Raya,Matchweek 29,Home,W 2–0,Brentford,Burnley,Y,GK,90,1,0,1,100,1,0.1,0,0,0,0,13,27,48.1,41,6,53.7,42.5,5,100,68.8,14,1,7.1,2,16.4
+2022-03-20,David Raya,Matchweek 30,Away,L 1–2,Brentford,Leicester City,Y,GK,90,4,2,2,50,0,1.8,0,0,0,0,8,23,34.8,45,4,46.7,38.7,8,25,28.5,8,0,0,1,19.7
+2022-04-02,David Raya,Matchweek 31,Away,W 4–1,Brentford,Chelsea,Y,GK,90,8,1,7,87.5,0,1.3,0,0,0,0,11,21,52.4,23,5,52.2,45.1,12,75,56.7,13,2,15.4,0,11
+2022-04-10,David Raya,Matchweek 32,Home,W 2–0,Brentford,West Ham,Y,GK,90,1,0,1,100,1,0,0,0,0,0,6,9,66.7,38,5,21.1,28.2,9,11.1,22.3,7,1,14.3,1,31
+2021-12-11,Willy Caballero,Matchweek 16,Away,L 0–3,Southampton,Arsenal,Y,GK,90,5,3,2,40,0,3,0,0,0,0,9,18,50,27,0,37,34.3,8,100,60.5,7,0,0,3,26.7
+2021-12-15,Willy Caballero,Matchweek 17,Away,D 2–2,Southampton,Crystal Palace,Y,GK,90,6,2,4,66.7,0,1.2,0,0,0,0,11,21,52.4,19,0,89.5,53.2,5,80,56.8,14,1,7.1,1,18
+2021-09-11,Jed Steer,Matchweek 4,Away,L 0–3,Aston Villa,Chelsea,Y,GK,90,4,3,1,25,0,1.8,0,0,0,0,5,13,38.5,30,6,30,34.4,6,66.7,53.8,8,1,12.5,1,14.3
+2021-08-14,Vicente Guaita,Matchweek 1,Away,L 0–3,Crystal Palace,Chelsea,Y,GK,90,6,3,3,50,0,1.8,0,0,0,0,4,11,36.4,33,5,27.3,29.7,8,25,19.8,10,2,20,0,9
+2021-08-21,Vicente Guaita,Matchweek 2,Home,D 0–0,Crystal Palace,Brentford,Y,GK,90,3,0,3,100,1,0.8,0,0,0,0,9,22,40.9,27,5,55.6,45.1,11,63.6,39.5,6,0,0,0,12
+2021-08-28,Vicente Guaita,Matchweek 3,Away,D 2–2,Crystal Palace,West Ham,Y,GK,90,4,2,2,50,0,0.9,0,0,0,0,7,12,58.3,30,8,26.7,26.7,9,44.4,36,14,0,0,1,12.2
+2021-09-11,Vicente Guaita,Matchweek 4,Home,W 3–0,Crystal Palace,Tottenham,Y,GK,90,1,0,1,100,1,0,0,0,0,0,4,4,100,10,3,20,28.1,4,50,27.5,2,1,50,0,14
+2021-09-18,Vicente Guaita,Matchweek 5,Away,L 0–3,Crystal Palace,Liverpool,Y,GK,90,10,3,7,70,0,2.4,0,0,0,0,5,12,41.7,17,3,47.1,39.1,8,50,39,17,1,5.9,0,12
+2021-09-27,Vicente Guaita,Matchweek 6,Home,D 1–1,Crystal Palace,Brighton,Y,GK,90,4,1,3,75,0,1.6,0,0,0,0,4,11,36.4,21,5,42.9,40.3,5,40,36.6,6,1,16.7,0,11.8
+2021-10-03,Vicente Guaita,Matchweek 7,Home,D 2–2,Crystal Palace,Leicester City,Y,GK,90,5,2,3,60,0,1,0,0,0,0,1,5,20,32,9,15.6,25.9,2,0,23.5,3,0,0,0,10.3
+2021-10-18,Vicente Guaita,Matchweek 8,Away,D 2–2,Crystal Palace,Arsenal,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,9,12,75,32,6,28.1,29.4,5,60,43.8,8,0,0,2,17
+2021-10-23,Vicente Guaita,Matchweek 9,Home,D 1–1,Crystal Palace,Newcastle Utd,Y,GK,90,1,1,0,0,0,0.4,0,0,0,0,1,3,33.3,14,5,14.3,24.4,3,33.3,28.3,2,0,0,1,16
+2021-10-30,Vicente Guaita,Matchweek 10,Away,W 2–0,Crystal Palace,Manchester City,Y,GK,90,3,0,3,100,1,0.3,0,0,0,0,12,33,36.4,36,7,55.6,42.1,14,92.9,63.6,12,1,8.3,0,12.3
+2021-11-06,Vicente Guaita,Matchweek 11,Home,W 2–0,Crystal Palace,Wolves,Y,GK,90,2,0,2,100,1,0.1,0,0,0,0,0,4,0,23,2,13,23.9,2,50,35,2,0,0,1,16
+2021-11-20,Vicente Guaita,Matchweek 12,Away,D 3–3,Crystal Palace,Burnley,Y,GK,90,9,3,6,66.7,0,2.4,0,0,0,0,6,13,46.2,29,8,37.9,34.7,8,25,22.4,11,1,9.1,1,19.2
+2021-11-27,Vicente Guaita,Matchweek 13,Home,L 1–2,Crystal Palace,Aston Villa,Y,GK,90,3,2,1,33.3,0,0.7,0,0,0,0,4,5,80,13,2,23.1,29.4,5,40,39,4,0,0,1,20.7
+2021-11-30,Vicente Guaita,Matchweek 14,Away,L 0–1,Crystal Palace,Leeds United,Y,GK,90,2,1,2,100,0,0.9,1,1,0,0,6,17,35.3,28,5,42.9,32.3,9,55.6,39.6,6,0,0,1,16.8
+2021-12-05,Vicente Guaita,Matchweek 15,Away,L 0–1,Crystal Palace,Manchester Utd,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,8,14,57.1,22,6,40.9,35.3,9,55.6,41.3,10,3,30,0,13.8
+2021-12-12,Vicente Guaita,Matchweek 16,Home,W 3–1,Crystal Palace,Everton,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,7,14,50,27,6,51.9,40.7,4,0,26.3,8,0,0,0,10.5
+2021-12-28,Vicente Guaita,Matchweek 20,Home,W 3–0,Crystal Palace,Norwich City,Y,GK,90,2,0,2,100,1,0.3,0,0,0,0,5,6,83.3,20,1,30,30.9,3,0,8.3,6,0,0,0,11.7
+2022-01-01,Vicente Guaita,Matchweek 21,Home,L 2–3,Crystal Palace,West Ham,Y,GK,90,4,3,2,50,0,2.4,1,1,0,0,3,5,60,29,6,10.3,25.2,7,28.6,29.6,12,3,25,1,18.8
+2022-01-23,Vicente Guaita,Matchweek 23,Home,L 1–3,Crystal Palace,Liverpool,Y,GK,90,6,3,4,66.7,0,2.8,1,1,0,0,7,8,87.5,36,15,22.2,24,7,0,16.1,14,0,0,1,13.7
+2022-02-09,Vicente Guaita,Matchweek 24,Away,D 1–1,Crystal Palace,Norwich City,Y,GK,90,1,1,0,0,0,0.7,0,0,0,0,3,5,60,22,5,22.7,27.7,5,0,12.6,2,0,0,0,15.2
+2022-02-12,Vicente Guaita,Matchweek 25,Away,D 0–0,Crystal Palace,Brentford,Y,GK,90,2,0,2,100,1,0.8,0,0,0,0,4,9,44.4,23,4,34.8,34.3,2,50,38,4,1,25,0,17.8
+2022-02-19,Vicente Guaita,Matchweek 26,Home,L 0–1,Crystal Palace,Chelsea,Y,GK,45,2,0,2,100,0,0.1,0,0,0,0,1,2,50,9,1,11.1,22.4,4,25,32,4,0,0,0,13
+2022-03-05,Vicente Guaita,Matchweek 28,Away,W 2–0,Crystal Palace,Wolves,Y,GK,90,5,0,5,100,1,0.4,0,0,0,0,4,16,25,23,6,52.2,38.2,8,50,45,12,0,0,2,15.5
+2022-03-14,Vicente Guaita,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester City,Y,GK,90,4,0,4,100,1,0.8,0,0,0,0,14,27,51.9,25,4,68,44,15,66.7,50.1,10,0,0,0,11.2
+2022-04-04,Vicente Guaita,Matchweek 31,Home,W 3–0,Crystal Palace,Arsenal,Y,GK,90,3,0,3,100,1,0.4,0,0,0,0,5,18,27.8,19,1,63.2,49.9,9,66.7,48.8,4,0,0,1,14.6
+2022-04-10,Vicente Guaita,Matchweek 32,Away,L 1–2,Crystal Palace,Leicester City,Y,GK,90,3,2,1,33.3,0,0.5,0,0,0,0,5,14,35.7,40,6,30,29.6,7,28.6,26.7,5,0,0,0,9.7
+2022-01-11,Fraser Forster,Matchweek 18,Home,W 4–1,Southampton,Brentford,Y,GK,90,4,1,3,75,0,1.4,0,0,0,0,6,22,27.3,17,1,82.4,57.7,8,100,66.1,10,1,10,2,19.5
+2021-12-26,Fraser Forster,Matchweek 19,Away,W 3–2,Southampton,West Ham,Y,GK,90,4,2,2,50,0,1.6,0,0,0,0,11,28,39.3,30,2,60,43.4,17,58.8,44.4,15,0,0,0,8.3
+2021-12-28,Fraser Forster,Matchweek 20,Home,D 1–1,Southampton,Tottenham,Y,GK,90,9,1,9,100,0,2.7,1,1,0,0,12,33,36.4,30,2,86.7,66.8,7,100,67.4,15,2,13.3,2,15.6
+2022-03-10,Fraser Forster,Matchweek 21,Home,L 1–2,Southampton,Newcastle Utd,Y,GK,90,3,2,1,33.3,0,1.1,0,0,0,0,4,18,22.2,37,9,43.2,37.5,3,66.7,45.7,5,2,40,1,16
+2022-01-15,Fraser Forster,Matchweek 22,Away,L 1–3,Southampton,Wolves,Y,GK,90,4,3,2,50,0,2.5,1,1,0,0,2,7,28.6,15,1,33.3,39.3,3,66.7,46.7,2,1,50,0,9
+2022-01-22,Fraser Forster,Matchweek 23,Home,D 1–1,Southampton,Manchester City,Y,GK,90,5,1,4,80,0,1.4,0,0,0,0,9,21,42.9,27,4,40.7,39.3,12,83.3,57.7,26,3,11.5,0,9.8
+2022-02-09,Fraser Forster,Matchweek 24,Away,W 3–2,Southampton,Tottenham,Y,GK,90,3,2,2,33.3,0,1.4,0,0,0,0,6,15,40,24,6,45.8,38.7,4,100,58.3,13,0,0,1,12.8
+2022-02-12,Fraser Forster,Matchweek 25,Away,D 1–1,Southampton,Manchester Utd,Y,GK,90,7,1,6,85.7,0,1.6,0,0,0,0,9,21,42.9,28,4,53.6,39.6,7,85.7,59.3,11,1,9.1,1,14.8
+2022-02-19,Fraser Forster,Matchweek 26,Home,W 2–0,Southampton,Everton,Y,GK,90,0,0,0,0,1,0,0,0,0,0,9,20,45,26,6,57.7,43.5,6,83.3,55.2,7,0,0,0,10.4
+2022-02-25,Fraser Forster,Matchweek 27,Home,W 2–0,Southampton,Norwich City,Y,GK,90,1,0,1,100,1,0,0,0,0,0,3,16,18.8,25,2,44,39.1,5,100,66,7,0,0,0,4
+2022-03-05,Fraser Forster,Matchweek 28,Away,L 0–4,Southampton,Aston Villa,Y,GK,90,9,4,5,55.6,0,3.8,0,0,0,0,7,16,43.8,28,7,46.4,39.7,4,75,55.8,3,0,0,1,16.4
+2022-03-13,Fraser Forster,Matchweek 29,Home,L 1–2,Southampton,Watford,Y,GK,90,5,2,3,60,0,1.7,0,0,0,0,3,8,37.5,25,5,20,32.9,7,42.9,36.7,7,0,0,0,15.4
+2022-04-02,Fraser Forster,Matchweek 31,Away,D 1–1,Southampton,Leeds United,Y,GK,90,3,1,2,66.7,0,1,0,0,0,0,6,26,23.1,23,4,78.3,55.1,10,80,56.3,5,1,20,1,15
+2022-04-09,Fraser Forster,Matchweek 32,Home,L 0–6,Southampton,Chelsea,Y,GK,90,14,6,8,57.1,0,5.2,0,0,0,0,7,23,30.4,23,2,69.6,54,7,100,69,3,0,0,1,12.2
+2021-12-15,Jack Butland,Matchweek 17,Home,D 2–2,Crystal Palace,Southampton,Y,GK,90,4,2,2,50,0,1,0,0,0,0,3,12,25,37,4,27,28.9,7,28.6,30.9,5,0,0,1,17.3
+2022-02-23,Jack Butland,Matchweek 18,Away,W 4–1,Crystal Palace,Watford,Y,GK,90,1,1,0,0,0,0.9,0,0,0,0,2,8,25,24,2,20.8,29,7,42.9,33.6,10,1,10,1,19
+2021-12-26,Jack Butland,Matchweek 19,Away,L 0–3,Crystal Palace,Tottenham,Y,GK,90,6,3,3,50,0,2.7,0,0,0,0,4,19,21.1,20,4,55,37.3,14,57.1,45.7,14,0,0,0,11.7
+2022-01-14,Jack Butland,Matchweek 22,Away,D 1–1,Crystal Palace,Brighton,Y,GK,90,3,1,3,66.7,0,2,1,0,1,0,5,15,33.3,16,4,56.3,38.8,11,54.5,38.5,14,0,0,0,8.3
+2022-02-19,Jack Butland,Matchweek 26,Home,L 0–1,Crystal Palace,Chelsea,N,GK,45,1,1,0,0,0,0.1,0,0,0,0,4,5,80,17,1,23.5,28.2,3,33.3,49.3,5,0,0,0,0
+2022-02-26,Jack Butland,Matchweek 27,Home,D 1–1,Crystal Palace,Burnley,Y,GK,90,1,1,1,0,0,0.3,0,0,0,0,3,14,21.4,30,8,43.3,38.7,2,50,49.5,9,2,22.2,0,10.1
+2021-09-17,Karl Darlow,Matchweek 5,Home,D 1–1,Newcastle Utd,Leeds United,Y,GK,90,9,1,8,88.9,0,1.4,0,0,0,0,12,23,52.2,22,5,59.1,48.8,11,90.9,66.5,14,1,7.1,0,11.4
+2021-09-25,Karl Darlow,Matchweek 6,Away,D 1–1,Newcastle Utd,Watford,Y,GK,90,5,1,4,80,0,0.5,0,0,0,0,11,22,50,18,1,77.8,53.2,9,88.9,64.2,7,0,0,0,16.3
+2021-10-02,Karl Darlow,Matchweek 7,Away,L 1–2,Newcastle Utd,Wolves,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,4,12,33.3,21,4,47.6,39.3,4,50,39.5,1,0,0,0,17.7
+2021-10-17,Karl Darlow,Matchweek 8,Home,L 2–3,Newcastle Utd,Tottenham,Y,GK,90,4,3,1,25,0,2,0,0,0,0,9,19,47.4,27,5,70.4,50.4,5,0,11.8,7,2,28.6,1,16.2
+2021-10-23,Karl Darlow,Matchweek 9,Away,D 1–1,Newcastle Utd,Crystal Palace,Y,GK,90,4,1,3,75,0,1.2,0,0,0,0,14,31,45.2,20,1,100,63.7,12,91.7,68.2,15,1,6.7,1,16.6
+2021-10-30,Karl Darlow,Matchweek 10,Home,L 0–3,Newcastle Utd,Chelsea,Y,GK,90,5,3,3,60,0,2.1,1,1,0,0,13,38,34.2,36,3,77.8,57.5,11,90.9,69.8,9,0,0,2,15
+2021-11-06,Karl Darlow,Matchweek 11,Away,D 1–1,Newcastle Utd,Brighton,Y,GK,90,4,1,4,100,0,1.1,1,1,0,0,4,10,40,26,9,26.9,34,6,50,49.2,7,3,42.9,0,15.5
+2021-11-20,Karl Darlow,Matchweek 12,Home,D 3–3,Newcastle Utd,Brentford,Y,GK,90,3,3,1,0,0,0.9,0,0,0,0,8,17,47.1,19,1,57.9,50.7,6,100,70,9,1,11.1,0,10.5
+2021-09-18,Ben Foster,Matchweek 5,Away,W 3–1,Watford,Norwich City,Y,GK,90,4,1,3,75,0,0.9,0,0,0,0,11,26,42.3,27,2,74.1,51.3,6,100,70.7,10,1,10,2,24.5
+2021-09-25,Ben Foster,Matchweek 6,Home,D 1–1,Watford,Newcastle Utd,Y,GK,90,6,1,5,83.3,0,1.2,0,0,0,0,8,15,53.3,14,4,42.9,34.3,13,69.2,49.7,7,1,14.3,2,18
+2021-10-02,Ben Foster,Matchweek 7,Away,L 0–1,Watford,Leeds United,Y*,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,9,20,45,25,6,44,42.8,12,75,52.3,13,2,15.4,0,16.9
+2021-10-16,Ben Foster,Matchweek 8,Home,L 0–5,Watford,Liverpool,Y,GK,90,8,5,3,37.5,0,5,0,0,0,0,6,22,27.3,21,3,76.2,55.2,6,100,69.7,9,0,0,0,15.6
+2021-10-23,Ben Foster,Matchweek 9,Away,W 5–2,Watford,Everton,Y,GK,90,4,2,2,50,0,1.6,0,0,0,0,8,21,38.1,23,3,52.2,47.3,11,81.8,67.2,12,0,0,0,12
+2021-10-30,Ben Foster,Matchweek 10,Home,L 0–1,Watford,Southampton,Y,GK,90,1,1,0,0,0,0.6,0,0,0,0,17,31,54.8,30,2,73.3,55.5,9,100,78,11,0,0,3,22.4
+2021-11-07,Ben Foster,Matchweek 11,Away,L 0–1,Watford,Arsenal,Y,GK,90,5,1,4,80,0,1.7,1,0,1,0,8,27,29.6,35,2,62.9,52.7,5,100,70.6,8,0,0,1,13.7
+2021-11-20,Ben Foster,Matchweek 12,Home,W 4–1,Watford,Manchester Utd,Y,GK,90,3,1,2,66.7,0,1.3,0,0,0,0,12,35,34.3,32,0,90.6,61.5,6,100,70.7,3,0,0,0,14.3
+2022-02-05,Ben Foster,Matchweek 17,Away,D 0–0,Watford,Burnley,Y,GK,90,2,0,2,100,1,0.5,0,0,0,0,9,35,25.7,33,2,84.8,56.1,7,100,64.9,7,0,0,1,14.3
+2022-02-23,Ben Foster,Matchweek 18,Home,L 1–4,Watford,Crystal Palace,Y,GK,90,5,4,1,20,0,1.8,0,0,0,0,11,19,57.9,26,1,61.5,43,4,75,55.3,7,0,0,1,17.7
+2022-03-10,Ben Foster,Matchweek 19,Away,L 0–4,Watford,Wolves,Y,GK,90,5,4,2,20,0,2.4,0,0,0,0,5,29,17.2,32,5,78.1,52.5,5,80,58.6,10,0,0,1,17.2
+2022-01-15,Ben Foster,Matchweek 22,Away,D 1–1,Watford,Newcastle Utd,Y,GK,90,1,1,0,0,0,0.4,0,0,0,0,8,20,40,21,2,66.7,47.5,9,66.7,47.7,13,1,7.7,0,11
+2022-02-08,Ben Foster,Matchweek 24,Away,L 0–1,Watford,West Ham,Y,GK,90,2,1,0,50,0,0.4,0,0,0,0,5,22,22.7,16,0,75,50.1,10,100,68.2,10,0,0,1,37
+2022-02-12,Ben Foster,Matchweek 25,Home,L 0–2,Watford,Brighton,Y,GK,90,5,2,3,60,0,2.1,0,0,0,0,6,20,30,21,2,76.2,52.6,5,80,54.8,9,1,11.1,2,17.8
+2022-02-19,Ben Foster,Matchweek 26,Away,W 1–0,Watford,Aston Villa,Y,GK,90,2,0,2,100,1,0.4,0,0,0,0,7,25,28,23,6,52.2,42.9,13,100,68,17,0,0,0,13
+2022-02-26,Ben Foster,Matchweek 27,Away,D 0–0,Watford,Manchester Utd,Y,GK,90,3,0,3,100,1,0.2,0,0,0,0,12,38,31.6,26,3,84.6,56,17,94.1,68.2,17,1,5.9,1,11.8
+2022-03-06,Ben Foster,Matchweek 28,Home,L 2–3,Watford,Arsenal,Y,GK,90,4,3,1,25,0,1.8,0,0,0,0,14,26,53.8,28,4,60.7,49,10,90,61.5,12,1,8.3,2,14.7
+2022-03-13,Ben Foster,Matchweek 29,Away,W 2–1,Watford,Southampton,Y,GK,90,5,1,4,80,0,1.3,0,0,0,0,11,28,39.3,27,3,77.8,57.5,7,100,73,12,2,16.7,1,16.1
+2022-04-02,Ben Foster,Matchweek 31,Away,L 0–2,Watford,Liverpool,Y,GK,90,2,2,1,50,0,2.1,1,1,0,0,4,32,12.5,21,3,81,55.6,15,100,73.3,11,1,9.1,2,13.7
+2022-04-09,Ben Foster,Matchweek 32,Home,L 0–3,Watford,Leeds United,Y,GK,90,5,3,2,40,0,2.4,0,0,0,0,9,27,33.3,24,2,75,50,10,90,63.1,4,0,0,3,19
+2021-12-26,Angus Gunn,Matchweek 19,Home,L 0–5,Norwich City,Arsenal,Y,GK,90,5,5,1,20,0,3.5,1,1,0,0,6,21,28.6,31,2,61.3,44.7,7,28.6,33.3,4,0,0,3,21.7
+2021-12-28,Angus Gunn,Matchweek 20,Away,L 0–3,Norwich City,Crystal Palace,Y,GK,90,5,3,3,60,0,2.7,1,1,0,0,8,13,61.5,22,3,50,39.6,5,40,33.4,9,0,0,1,18.8
+2022-01-21,Angus Gunn,Matchweek 23,Away,W 3–0,Norwich City,Watford,Y,GK,90,3,0,3,100,1,0.1,0,0,0,0,8,21,38.1,23,3,65.2,43.8,8,75,55.1,8,0,0,0,10
+2022-02-09,Angus Gunn,Matchweek 24,Home,D 1–1,Norwich City,Crystal Palace,Y,GK,90,5,1,4,80,0,1.6,1,0,0,1,5,18,27.8,26,9,50,38.8,8,62.5,43.9,13,1,7.7,0,13.7
+2022-02-12,Angus Gunn,Matchweek 25,Home,L 0–4,Norwich City,Manchester City,Y,GK,90,8,4,4,50,0,4.4,1,0,1,0,7,12,58.3,20,5,45,35.8,8,37.5,38.5,11,2,18.2,0,12.2
+2022-02-19,Angus Gunn,Matchweek 26,Away,L 1–3,Norwich City,Liverpool,Y,GK,90,7,3,4,57.1,0,2.7,0,0,0,0,6,16,37.5,19,5,52.6,39.5,13,46.2,38.8,11,2,18.2,1,14.9
+2022-02-25,Angus Gunn,Matchweek 27,Away,L 0–2,Norwich City,Southampton,Y,GK,90,9,2,7,77.8,0,3.4,0,0,0,0,6,11,54.5,21,5,42.9,37.7,13,15.4,29.2,13,1,7.7,1,12
+2021-10-30,Álvaro Fernández,Matchweek 10,Away,L 1–3,Brentford,Burnley,Y,GK,90,5,3,2,40,0,3.4,0,0,0,0,3,15,20,38,8,31.6,31.4,8,37.5,33.9,8,0,0,2,13.8
+2021-11-06,Álvaro Fernández,Matchweek 11,Home,L 1–2,Brentford,Norwich City,Y,GK,90,4,2,3,75,0,1.6,1,1,0,0,10,17,58.8,37,3,43.2,36.1,3,33.3,30.3,6,0,0,1,15.5
+2021-11-20,Álvaro Fernández,Matchweek 12,Away,D 3–3,Brentford,Newcastle Utd,Y,GK,90,7,3,4,57.1,0,2.3,0,0,0,0,13,30,43.3,36,6,72.2,49.1,8,50,36.5,13,1,7.7,2,17.2
+2021-11-28,Álvaro Fernández,Matchweek 13,Home,W 1–0,Brentford,Everton,Y,GK,90,4,0,4,100,1,1,0,0,0,0,9,22,40.9,47,6,36.2,36.6,7,71.4,43.6,20,2,10,1,15
+2021-12-02,Álvaro Fernández,Matchweek 14,Away,L 0–2,Brentford,Tottenham,Y,GK,90,6,2,5,66.7,0,2.1,0,0,0,0,7,16,43.8,32,4,40.6,34.8,4,75,42,6,0,0,0,8
+2021-12-05,Álvaro Fernández,Matchweek 15,Away,D 2–2,Brentford,Leeds United,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,6,16,37.5,29,2,44.8,36.8,5,60,43.2,20,1,5,1,13.7
+2021-12-10,Álvaro Fernández,Matchweek 16,Home,W 2–1,Brentford,Watford,Y,GK,90,2,1,1,50,0,0.8,0,0,0,0,1,16,6.3,32,5,46.9,37.6,4,25,24.5,7,1,14.3,0,16.7
+2022-01-11,Álvaro Fernández,Matchweek 18,Away,L 1–4,Brentford,Southampton,Y,GK,90,6,4,3,33.3,0,3.5,0,0,0,0,5,16,31.3,37,6,35.1,34.5,6,50,46.2,9,0,0,1,19.2
+2021-12-26,Álvaro Fernández,Matchweek 19,Away,L 0–2,Brentford,Brighton,Y,GK,90,5,2,3,60,0,1.6,0,0,0,0,7,19,36.8,30,7,53.3,39.2,10,30,28.5,8,1,12.5,1,13.4
+2021-12-29,Álvaro Fernández,Matchweek 20,Home,L 0–1,Brentford,Manchester City,Y,GK,90,4,1,3,75,0,0.9,0,0,0,0,7,29,24.1,32,3,56.3,40.1,11,100,60.3,9,0,0,0,10.3
+2022-01-02,Álvaro Fernández,Matchweek 21,Home,W 2–1,Brentford,Aston Villa,Y,GK,90,5,1,4,80,0,1.7,0,0,0,0,5,16,31.3,28,5,50,38.4,8,25,29.8,2,0,0,1,16.4
+2022-01-16,Álvaro Fernández,Matchweek 22,Away,L 0–3,Brentford,Liverpool,Y,GK,90,13,3,10,76.9,0,3.9,0,0,0,0,9,35,25.7,39,1,69.2,48.2,9,88.9,55.9,15,1,6.7,0,9.3
+2021-08-14,Tim Krul,Matchweek 1,Home,L 0–3,Norwich City,Liverpool,Y,GK,90,6,3,3,50,0,1.6,0,0,0,0,7,21,33.3,36,4,50,37.1,8,37.5,32.5,11,0,0,1,11.4
+2021-08-21,Tim Krul,Matchweek 2,Away,L 0–5,Norwich City,Manchester City,Y,GK,90,4,5,0,-25,0,3.2,0,0,0,0,7,20,35,49,7,38.8,36.1,9,11.1,24.9,10,3,30,0,10.2
+2021-08-28,Tim Krul,Matchweek 3,Home,L 1–2,Norwich City,Leicester City,Y,GK,90,3,2,1,33.3,0,1.4,0,0,0,0,7,18,38.9,25,3,48,42.2,10,60,47.6,7,0,0,2,20.5
+2021-09-11,Tim Krul,Matchweek 4,Away,L 0–1,Norwich City,Arsenal,Y,GK,90,6,1,4,83.3,0,1.6,0,0,0,0,13,28,46.4,35,2,54.3,40.9,15,60,47.8,9,0,0,0,12.2
+2021-09-18,Tim Krul,Matchweek 5,Home,L 1–3,Norwich City,Watford,Y,GK,90,8,3,5,62.5,0,3.4,0,0,0,0,2,8,25,26,4,30.8,34.1,4,0,21.3,7,0,0,1,18
+2021-09-25,Tim Krul,Matchweek 6,Away,L 0–2,Norwich City,Everton,Y,GK,90,3,2,2,66.7,0,2,1,1,0,0,2,8,25,26,8,26.9,38.5,5,20,29.4,7,0,0,0,4.5
+2021-10-02,Tim Krul,Matchweek 7,Away,D 0–0,Norwich City,Burnley,Y,GK,90,4,0,4,100,1,1.1,0,0,0,0,10,29,34.5,36,5,55.6,42.5,12,75,61.8,25,1,4,1,16
+2021-10-16,Tim Krul,Matchweek 8,Home,D 0–0,Norwich City,Brighton,Y,GK,90,3,0,2,100,1,0.2,0,0,0,0,9,19,47.4,21,5,57.1,47,9,77.8,51,11,1,9.1,0,11.1
+2021-10-23,Tim Krul,Matchweek 9,Away,L 0–7,Norwich City,Chelsea,Y,GK,90,12,7,7,50,0,5.6,2,1,1,0,13,23,56.5,41,13,41.5,38.1,10,60,48.4,4,0,0,0,12
+2021-10-31,Tim Krul,Matchweek 10,Home,L 1–2,Norwich City,Leeds United,Y,GK,90,5,2,3,60,0,0.4,0,0,0,0,7,25,28,44,6,52.3,45.1,3,66.7,49.3,3,0,0,0,12.9
+2021-11-06,Tim Krul,Matchweek 11,Away,W 2–1,Norwich City,Brentford,Y,GK,90,7,1,6,85.7,0,3.1,0,0,0,0,7,25,28,24,5,66.7,50.2,9,100,67.1,13,1,7.7,0,10.5
+2021-11-20,Tim Krul,Matchweek 12,Home,W 2–1,Norwich City,Southampton,Y,GK,90,5,1,4,80,0,1,0,0,0,0,9,28,32.1,27,1,74.1,51.3,10,80,59.7,11,0,0,0,12
+2021-11-27,Tim Krul,Matchweek 13,Home,D 0–0,Norwich City,Wolves,Y,GK,90,2,0,2,100,1,0,0,0,0,0,5,8,62.5,20,4,25,31.1,7,42.9,39.9,6,0,0,0,14
+2021-11-30,Tim Krul,Matchweek 14,Away,D 1–1,Norwich City,Newcastle Utd,Y,GK,90,0,1,0,0,0,1,1,1,0,0,6,8,75,15,3,33.3,35.3,6,50,40.7,5,0,0,0,17.5
+2021-12-05,Tim Krul,Matchweek 15,Away,L 0–3,Norwich City,Tottenham,Y,GK,90,7,3,4,57.1,0,1.9,0,0,0,0,2,9,22.2,32,5,18.8,33.3,8,37.5,39.5,3,1,33.3,1,15.4
+2021-12-11,Tim Krul,Matchweek 16,Home,L 0–1,Norwich City,Manchester Utd,Y,GK,90,4,1,3,100,0,1.6,1,1,0,0,8,20,40,32,5,56.3,44.4,6,33.3,29.5,3,0,0,0,8.6
+2021-12-14,Tim Krul,Matchweek 17,Home,L 0–2,Norwich City,Aston Villa,Y,GK,90,6,2,4,66.7,0,1.7,0,0,0,0,4,6,66.7,23,6,26.1,33.7,3,0,18.3,9,0,0,0,11.7
+2022-01-12,Tim Krul,Matchweek 18,Away,L 0–2,Norwich City,West Ham,Y,GK,90,5,2,3,60,0,2.7,0,0,0,0,9,22,40.9,35,5,48.6,39.2,9,55.6,47.8,9,0,0,1,16
+2022-01-15,Tim Krul,Matchweek 22,Home,W 2–1,Norwich City,Everton,Y,GK,90,5,1,4,80,0,0.6,0,0,0,0,4,17,23.5,24,3,62.5,45.5,4,50,42.8,15,0,0,1,13.9
+2022-03-05,Tim Krul,Matchweek 28,Home,L 1–3,Norwich City,Brentford,Y,GK,90,4,3,3,75,0,2.8,2,2,0,0,5,13,38.5,18,4,61.1,44.4,4,50,41,4,0,0,0,12
+2022-03-13,Tim Krul,Matchweek 29,Away,L 1–2,Norwich City,Leeds United,Y,GK,90,7,2,5,71.4,0,2.5,0,0,0,0,9,12,75,29,11,27.6,31.8,12,33.3,35.2,8,0,0,2,14.1
+2022-03-10,Tim Krul,Matchweek 30,Home,L 1–3,Norwich City,Chelsea,Y,GK,90,7,3,4,57.1,0,2.7,0,0,0,0,4,9,44.4,27,5,33.3,33.4,6,0,21.7,4,0,0,0,12.4
+2022-04-02,Tim Krul,Matchweek 31,Away,D 0–0,Norwich City,Brighton,Y,GK,90,4,0,4,100,1,0.3,1,0,0,1,3,21,14.3,21,8,47.6,44.5,15,73.3,54.9,19,0,0,0,8.5
+2022-04-10,Tim Krul,Matchweek 32,Home,W 2–0,Norwich City,Burnley,Y,GK,90,3,0,3,100,1,0.8,0,0,0,0,7,30,23.3,24,2,87.5,55.1,10,90,62.4,21,0,0,0,11.8
+2022-04-16,Lewis Dunk,Matchweek 33,Away,W 1–0,Brighton,Tottenham,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-04-10,Ederson,Matchweek 32,Home,D 2–2,Manchester City,Liverpool,Y,GK,90,4,2,2,50,0,2,0,0,0,0,3,7,42.9,44,5,15.9,24.7,2,0,30,4,1,25,1,16.6
+2022-04-16,Aaron Ramsdale,Matchweek 33,Away,L 0–1,Arsenal,Southampton,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,5,80,35,8,14.3,26.6,2,0,25,6,0,0,4,19
+2022-04-10,Nick Pope,Matchweek 32,Away,L 0–2,Burnley,Norwich City,Y,GK,90,6,2,4,66.7,0,2.1,0,0,0,0,12,31,38.7,27,3,96.3,59.2,6,83.3,59.3,8,0,0,3,21
+2022-04-10,Kasper Schmeichel,Matchweek 32,Home,W 2–1,Leicester City,Crystal Palace,Y*,GK,90,2,1,1,50,0,0.6,1,0,1,0,4,11,36.4,23,1,47.8,38.2,4,0,17,3,2,66.7,0,10.8
+2022-04-16,Robert Sánchez,Matchweek 33,Away,W 1–0,Brighton,Tottenham,Y,GK,90,0,0,0,0,1,0,0,0,0,0,3,23,13,41,5,48.8,43.9,3,100,77.7,4,0,0,1,10.8
+2022-04-10,Alisson,Matchweek 32,Away,D 2–2,Liverpool,Manchester City,Y,GK,90,4,2,2,50,0,2.1,0,0,0,0,8,20,40,42,5,26.2,31.1,10,90,59.1,10,0,0,3,19.3
+2022-04-16,David de Gea,Matchweek 33,Home,W 3–2,Manchester Utd,Norwich City,Y,GK,90,4,2,2,50,0,1.6,0,0,0,0,2,5,40,14,6,21.4,27.5,6,33.3,35.3,5,1,20,1,13.7
+2022-04-16,Hugo Lloris,Matchweek 33,Home,L 0–1,Tottenham,Brighton,Y*,GK,90,4,1,3,75,0,0.6,0,0,0,0,1,4,25,24,3,16.7,29.6,8,0,11.1,7,0,0,1,14
+2022-04-10,Łukasz Fabiański,Matchweek 32,Away,L 0–2,West Ham,Brentford,Y,GK,90,7,2,5,71.4,0,1.3,0,0,0,0,7,17,41.2,29,5,48.3,40,5,60,46.4,13,0,0,0,9.3
+2022-04-10,David Raya,Matchweek 32,Home,W 2–0,Brentford,West Ham,Y,GK,90,1,0,1,100,1,0,0,0,0,0,6,9,66.7,38,5,21.1,28.2,9,11.1,22.3,7,1,14.3,1,31
+2022-04-16,David Raya,Matchweek 33,Away,W 2–1,Brentford,Watford,Y,GK,90,4,1,2,75,0,0.5,0,0,0,0,11,16,68.8,30,5,40,36.2,9,44.4,41.2,10,0,0,1,11.8
+2022-04-10,Vicente Guaita,Matchweek 32,Away,L 1–2,Crystal Palace,Leicester City,Y,GK,90,3,2,1,33.3,0,0.5,0,0,0,0,5,14,35.7,40,6,30,29.6,7,28.6,26.7,5,0,0,0,9.7
+2022-04-16,Fraser Forster,Matchweek 33,Home,W 1–0,Southampton,Arsenal,Y,GK,90,6,0,6,100,1,0.9,0,0,0,0,6,28,21.4,15,0,86.7,61.6,15,100,68.1,19,4,21.1,0,8.8
+2022-04-16,Ben Foster,Matchweek 33,Home,L 1–2,Watford,Brentford,Y,GK,90,5,2,3,60,0,1.9,0,0,0,0,9,23,39.1,20,2,90,58.2,5,100,70.4,10,0,0,0,8.4
+2022-04-10,Tim Krul,Matchweek 32,Home,W 2–0,Norwich City,Burnley,Y,GK,90,3,0,3,100,1,0.8,0,0,0,0,7,30,23.3,24,2,87.5,55.1,10,90,62.4,21,0,0,0,11.8
+2022-04-16,Tim Krul,Matchweek 33,Away,L 2–3,Norwich City,Manchester Utd,Y,GK,90,9,3,6,66.7,0,1.8,0,0,0,0,8,15,53.3,29,10,44.8,36,6,33.3,25.3,6,3,50,0,10.4
+2022-04-16,Lewis Dunk,Matchweek 33,Away,W 1–0,Brighton,Tottenham,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022-04-17,Martin Dúbravka,Matchweek 33,Home,W 2–1,Newcastle Utd,Leicester City,Y,GK,90,2,1,1,50,0,0.6,0,0,0,0,6,20,30,18,2,77.8,52.6,6,100,73.8,7,0,0,1,12.1
+2022-04-16,Aaron Ramsdale,Matchweek 33,Away,L 0–1,Arsenal,Southampton,Y,GK,90,3,1,2,66.7,0,0.9,0,0,0,0,4,5,80,35,8,14.3,26.6,2,0,25,6,0,0,4,19
+2022-04-17,Nick Pope,Matchweek 33,Away,D 1–1,Burnley,West Ham,Y,GK,90,6,1,5,83.3,0,2.5,0,0,0,0,10,28,35.7,21,4,81,61.2,11,100,74.4,23,2,8.7,2,15.6
+2022-04-17,Kasper Schmeichel,Matchweek 33,Away,L 1–2,Leicester City,Newcastle Utd,Y*,GK,90,6,2,4,66.7,0,1.8,0,0,0,0,13,19,68.4,20,5,60,42.6,10,70,51.7,6,0,0,1,13.8
+2022-04-16,Robert Sánchez,Matchweek 33,Away,W 1–0,Brighton,Tottenham,Y,GK,90,0,0,0,0,1,0,0,0,0,0,3,23,13,41,5,48.8,43.9,3,100,77.7,4,0,0,1,10.8
+2022-04-16,David de Gea,Matchweek 33,Home,W 3–2,Manchester Utd,Norwich City,Y,GK,90,4,2,2,50,0,1.6,0,0,0,0,2,5,40,14,6,21.4,27.5,6,33.3,35.3,5,1,20,1,13.7
+2022-04-16,Hugo Lloris,Matchweek 33,Home,L 0–1,Tottenham,Brighton,Y*,GK,90,4,1,3,75,0,0.6,0,0,0,0,1,4,25,24,3,16.7,29.6,8,0,11.1,7,0,0,1,14
+2022-04-17,Łukasz Fabiański,Matchweek 33,Home,D 1–1,West Ham,Burnley,Y,GK,90,1,1,0,0,0,0.9,1,0,0,1,2,6,33.3,16,5,25,30.1,2,100,72.5,11,0,0,0,10
+2022-04-16,David Raya,Matchweek 33,Away,W 2–1,Brentford,Watford,Y,GK,90,4,1,2,75,0,0.5,0,0,0,0,11,16,68.8,30,5,40,36.2,9,44.4,41.2,10,0,0,1,11.8
+2022-04-16,Fraser Forster,Matchweek 33,Home,W 1–0,Southampton,Arsenal,Y,GK,90,6,0,6,100,1,0.9,0,0,0,0,6,28,21.4,15,0,86.7,61.6,15,100,68.1,19,4,21.1,0,8.8
+2022-04-16,Ben Foster,Matchweek 33,Home,L 1–2,Watford,Brentford,Y,GK,90,5,2,3,60,0,1.9,0,0,0,0,9,23,39.1,20,2,90,58.2,5,100,70.4,10,0,0,0,8.4
+2022-04-16,Tim Krul,Matchweek 33,Away,L 2–3,Norwich City,Manchester Utd,Y,GK,90,9,3,6,66.7,0,1.8,0,0,0,0,8,15,53.3,29,10,44.8,36,6,33.3,25.3,6,3,50,0,10.4
