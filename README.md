@@ -5,6 +5,6 @@ lineups from RAPID-API. evaluation() can be run with a number of different flags
 depending on what you want to do, i.e. evaluate the control models, evaluate the 
 hypothesis models, output predictions to betting DB etc. Currently, web scraper does
 not work due to FBref.com blocking all web scrapers as of April 26 2022. 
-REALLY IMPORTANT NOTE: Odds scraper and parts of web-scraper use chromedriver, 
+IMPORTANT NOTE: Odds scraper and parts of web-scraper use chromedriver, 
 due to file size constraints chrome driver had to be deleted from the project.
 Chromedriver needs to be in path with all the other scripts to work.
